@@ -8,6 +8,7 @@
 ## Professions
 * [Fishing Profession Overview for The War Within](https://www.wowhead.com/guide/the-war-within/professions/fishing-overview)
 * [Knowledge Point Treasure Locations in The War Within TWW](https://www.wowhead.com/guide/the-war-within/professions/knowledge-point-treasure-locations)
+* [Buy 10 Profession Knowledge Points with Kej in The War Within!](https://www.wowhead.com/news/buy-10-profession-knowledge-points-with-kej-in-the-war-within-346116)
 
 ## Race
 * [Earthen Allied Race](https://www.wowhead.com/guide/allied-race/earthen)
