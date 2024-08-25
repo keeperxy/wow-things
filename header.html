@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>WoW Things</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <!-- stylesheet, scripts and fonts preload-->
+    <link rel="preload" href="js/casual-markdown.js" as="script" />
+    <link rel="preload" href="style.css" as="style" />
+    <link rel="preload" href="fonts/molengo-v16-latin-regular.woff2" as="font" />
+    <!-- stylesheet -->
+    <link rel="stylesheet" href="style.css" />
+
+    <!-- FontAwesome -->
+    <script defer src="js/brands.js"></script>
+    <script defer src="js/solid.js"></script>
+    <script defer src="js/fontawesome.js"></script>
+
+    <!-- src: https://github.com/casualwriter/casual-markdown -->
+    <script src="js/casual-markdown.js"></script>
+
+    <!-- links open in new tab -->
+    <base target="_blank" />
+    <script type="text/javascript">
+      if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.documentElement.classList.add('dark');
+      } else {
+        document.documentElement.classList.add('light');
+      }
+
+      function toggledarklight() {
+        if (document.documentElement.classList.contains('dark')) {
+          document.documentElement.classList.remove('dark');
+          document.documentElement.classList.add('light');
+        } else {
+          document.documentElement.classList.remove('light');
+          document.documentElement.classList.add('dark');
+        }
+      }
+
+      function togglelogos() {
+        if (document.documentElement.classList.contains('nologo')) {
+          document.documentElement.classList.remove('nologo');
+          var elements = document.getElementsByClassName("worklist");
+          for(var i = elements.length - 1; i >= 0; --i) {
+            elements[i].classList.remove('nologo');
+          }
+        } else {
+          document.documentElement.classList.add('nologo');
+          var elements = document.getElementsByClassName("worklist");
+          for(var i = elements.length - 1; i >= 0; --i) {
+            elements[i].classList.add('nologo');
+          }
+        }
+      }
+    </script>
+  </head>
+  <body onload="document.body.innerHTML=md.html(document.body.innerHTML); document.body.style.display='block';">
+<div class="topbar"><button class="logoswitch" onclick="togglelogos()"><i class="fa-solid fa-images"></i></button> <button onclick="toggledarklight()"><i class="fa-solid fa-moon"></i></button> <a target="_self" href="cv.en.html">EN</a> <a target="_self" href="cv.de.html">DE</a></div>
+<!--======= COPY ABOVE CODE AS HEADER, THEN FOLLOW WITH RESUME CONTENT IN MARKDOWN FORMAT =========-->
