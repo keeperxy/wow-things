@@ -12,4 +12,9 @@
 
 ## Race
 * [Earthen Allied Race](https://www.wowhead.com/guide/allied-race/earthen)
-																		
+
+## Rares and Loot
+* [Isle of Dorn](https://www.wowhead.com/guide/the-war-within/isle-of-dorn-rares-and-treasures)
+* [Ringing Deeps](https://www.wowhead.com/guide/the-war-within/the-ringing-deeps-rares-and-treasures)
+* [Hallowfall](https://www.wowhead.com/guide/the-war-within/hallowfall-rares-and-treasures)
+* [Azj-Kahet](https://www.wowhead.com/guide/the-war-within/azj-kahet-rares-and-treasures)
