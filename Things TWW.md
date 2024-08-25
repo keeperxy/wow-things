@@ -18,3 +18,20 @@
 * [Ringing Deeps](https://www.wowhead.com/guide/the-war-within/the-ringing-deeps-rares-and-treasures)
 * [Hallowfall](https://www.wowhead.com/guide/the-war-within/hallowfall-rares-and-treasures)
 * [Azj-Kahet](https://www.wowhead.com/guide/the-war-within/azj-kahet-rares-and-treasures)
+
+## Pets
+* [Free Pet with Discord](https://www.wowhead.com/news/free-parrlok-pet-for-streaming-world-of-warcraft-discord-cross-promotion-346080)
+
+## Mounts
+* [How to Farm for the Beledar's Spawn Mount](https://www.wowhead.com/news/how-to-farm-for-the-beledars-spawn-mount-in-the-war-within-346104)
+
+## Addons
+* [https://www.curseforge.com/wow/addons/teleport-me-nu](https://www.curseforge.com/wow/addons/teleport-me-nu)
+
+## Weakauras
+### City of Threads
+* [https://wago.io/rYrZlujlM](https://wago.io/rYrZlujlM)
+
+### Mists of Tirna Scithe
+* [https://wago.io/hVLym_eLv](https://wago.io/5X1DzV9fg)
+* [https://wago.io/5X1DzV9fg](https://wago.io/5X1DzV9fg)
