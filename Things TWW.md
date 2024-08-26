@@ -30,6 +30,9 @@
 * [https://www.curseforge.com/wow/addons/teleport-me-nu](https://www.curseforge.com/wow/addons/teleport-me-nu)
 
 ## Weakauras
+### Rare spawn
+* [Beledar - Mount](https://wago.io/xCLBExUB0)
+
 ### City of Threads
 * [https://wago.io/rYrZlujlM](https://wago.io/rYrZlujlM)
 
