@@ -28,20 +28,32 @@
 
 ## Mounts
 * [How to Farm for the Beledar's Spawn Mount](https://www.wowhead.com/news/how-to-farm-for-the-beledars-spawn-mount-in-the-war-within-346104)
+* [Using Follower Dungeons to Solo Farm Siesbarg Mount Materials](https://www.wowhead.com/news/using-follower-dungeons-to-solo-farm-siesbarg-mount-materials-346232)
 
 ## Addons
 * [https://www.curseforge.com/wow/addons/teleport-me-nu](https://www.curseforge.com/wow/addons/teleport-me-nu)
 
 ## Transmogs
 * [https://www.wowhead.com/news/how-to-obtain-the-garlic-knots-off-hand-transmog-in-the-war-within-346114](https://www.wowhead.com/news/how-to-obtain-the-garlic-knots-off-hand-transmog-in-the-war-within-346114)
+* [Unique Transmogs from Hallowfall Quests - Torches, Gardening Tools](https://www.wowhead.com/news/unique-transmogs-from-hallowfall-quests-torches-gardening-tools-346215)
 
 ## Weakauras
+
+### Things
+* [https://wago.io/1sM5HSqzd](https://wago.io/1sM5HSqzd) - Check if you have done all Reputation Quests
+* [Additional Options for Tracking Weekly Profession Knowledge Points](https://www.wowhead.com/news/additional-options-for-tracking-weekly-profession-knowledge-points-346314)
+
 ### Rare spawn
 * [Beledar - Mount](https://wago.io/xCLBExUB0)
 
 ### City of Threads
-* [https://wago.io/rYrZlujlM](https://wago.io/rYrZlujlM)
+
 
 ### Mists of Tirna Scithe
 * [https://wago.io/hVLym_eLv](https://wago.io/5X1DzV9fg)
 * [https://wago.io/5X1DzV9fg](https://wago.io/5X1DzV9fg)
+
+## Dungeon/Raid
+
+### Raid
+* [https://www.youtube.com/watch?v=zoVh1AF35AI](https://www.youtube.com/watch?v=zoVh1AF35AI)
