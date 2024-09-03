@@ -1,5 +1,7 @@
 # Things TWW
 
+## Loot + Itemlvl
+* [TWW Loot and Item Tracks](https://docs.google.com/spreadsheets/d/e/2PACX-1vSaXopFLzFUjzbi70uHRTgFy7WB6haKXQrHQRoGKRxh4aQw7lRYf1--APhifezVit5WC3CachzaK9iq/pubhtml#)
 
 ## Things
 * [How to Obtain Two Free 34-Slot Bags in The War Within](https://www.wowhead.com/news/how-to-obtain-two-free-34-slot-bags-in-the-war-within-346109)
@@ -10,6 +12,10 @@
 * [Buy 10 Profession Knowledge Points with Kej in The War Within!](https://www.wowhead.com/news/buy-10-profession-knowledge-points-with-kej-in-the-war-within-346116)
 * [Earn 350 Acuity Instantly in The War Within](https://www.wowhead.com/news/earn-350-acuity-instantly-in-the-war-within-crafting-to-order-346136)
 * [Knowledge Point Treasure Locations in The War Within TWW](https://www.wowhead.com/guide/the-war-within/professions/knowledge-point-treasure-locations)
+
+### Farmspots
+#### Leder
+![Gloom Citin](page/pics/gloom_citin.jpeg)
 
 ### Hersteller
 * Kyrios-Forscherliga - Treatise
@@ -28,6 +34,7 @@
 
 ## Mounts
 * [How to Farm for the Beledar's Spawn Mount](https://www.wowhead.com/news/how-to-farm-for-the-beledars-spawn-mount-in-the-war-within-346104)
+`/run local a,b,c=258575,1000,{0,68821,45323,4740,6788,43066,25944,17293,18770,16166,9222,33660,32121,5799,18898,8889,14311,52915,40356,6758}for d=1,#c do a=a+c[d]TomTom:AddWaypoint(2215,floor(a/b)/b,a%b/b,{title="Beledar Spawn",from="Wowhead Script"})end`
 * [Using Follower Dungeons to Solo Farm Siesbarg Mount Materials](https://www.wowhead.com/news/using-follower-dungeons-to-solo-farm-siesbarg-mount-materials-346232)
 
 ## Addons
