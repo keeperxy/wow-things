@@ -15,7 +15,7 @@
 
 ### Farmspots
 #### Leder
-![Gloom Citin](page/pics/gloom_citin.jpeg)
+![Gloom Citin](pics/gloom_citin.jpeg)
 
 ### Hersteller
 * Kyrios-Forscherliga - Treatise
