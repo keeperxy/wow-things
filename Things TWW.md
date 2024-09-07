@@ -1,7 +1,8 @@
 # Things TWW
 
 ## Loot + Itemlvl
-* [TWW Loot and Item Tracks](https://docs.google.com/spreadsheets/d/e/2PACX-1vSaXopFLzFUjzbi70uHRTgFy7WB6haKXQrHQRoGKRxh4aQw7lRYf1--APhifezVit5WC3CachzaK9iq/pubhtml#)
+* [TWW Loot and Item Tracks](https://docs.google.com/spreadsheets/d/e/2PACX-1vSaXopFLzFUjzbi70uHRTgFy7WB6haKXQrHQRoGKRxh4aQw7lRYf1--APhifezVit5WC3CachzaK9iq/pubhtml#)  
+![m_delve_cest_itemlvl](pics/m_delve_cest_itemlvl.png)
 
 ## Things
 * [How to Obtain Two Free 34-Slot Bags in The War Within](https://www.wowhead.com/news/how-to-obtain-two-free-34-slot-bags-in-the-war-within-346109)
@@ -43,6 +44,10 @@
 ## Transmogs
 * [https://www.wowhead.com/news/how-to-obtain-the-garlic-knots-off-hand-transmog-in-the-war-within-346114](https://www.wowhead.com/news/how-to-obtain-the-garlic-knots-off-hand-transmog-in-the-war-within-346114)
 * [Unique Transmogs from Hallowfall Quests - Torches, Gardening Tools](https://www.wowhead.com/news/unique-transmogs-from-hallowfall-quests-torches-gardening-tools-346215)
+
+## Delves
+* [One Time Reputation Bonuses for Each Faction from Bountiful Delves](https://www.wowhead.com/news/one-time-reputation-bonuses-for-each-faction-from-bountiful-delves-346442)  
+`/run for k, v in pairs({ Assembly = 83318,Council = 83317,Spooders = 83319,Hallowfall = 83320}) do print(format("%s: %s", k, C_QuestLog.IsQuestFlaggedCompleted(v) and "\124cff00ff00Yes\124r" or "\124cffff0000No\124r")) end`
 
 ## Weakauras
 
