@@ -2,8 +2,10 @@
 
 ## Loot + Itemlvl
 * [TWW Loot and Item Tracks](https://docs.google.com/spreadsheets/d/e/2PACX-1vSaXopFLzFUjzbi70uHRTgFy7WB6haKXQrHQRoGKRxh4aQw7lRYf1--APhifezVit5WC3CachzaK9iq/pubhtml#)  
-![m_delve_cest_itemlvl](pics/m_delve_cest_itemlvl.png)
-<img src="https://wow.vi6.org/pics/m_delve_cest_itemlvl.png" style="height:150%;">
+<img src="https://wow.vi6.org/pics/m_delve_cest_itemlvl.png" style="width:125%;">
+
+## Ablauf
+<img src="https://bnetcmsus-a.akamaihd.net/cms/content_entry_media/ua/UAH4HD4AU1OJ1725553250430.png">
 
 ## Things
 * [How to Obtain Two Free 34-Slot Bags in The War Within](https://www.wowhead.com/news/how-to-obtain-two-free-34-slot-bags-in-the-war-within-346109)
@@ -15,11 +17,14 @@
 * [Earn 350 Acuity Instantly in The War Within](https://www.wowhead.com/news/earn-350-acuity-instantly-in-the-war-within-crafting-to-order-346136)
 * [Knowledge Point Treasure Locations in The War Within TWW](https://www.wowhead.com/guide/the-war-within/professions/knowledge-point-treasure-locations)
 
-### Farmspots
-#### Leder
-![Gloom Citin](pics/gloom_citin.jpeg)
+--
 
-### Hersteller
+### Farmspots
+
+#### Leder
+<img src="https://wow.vi6.org/pics/gloom_citin.jpeg" style="width:125%;">
+
+#### Hersteller
 * Kyrios-Forscherliga - Treatise
 
 ## Race
