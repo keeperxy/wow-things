@@ -7,6 +7,12 @@
 ## Ablauf
 <img src="https://bnetcmsus-a.akamaihd.net/cms/content_entry_media/ua/UAH4HD4AU1OJ1725553250430.png">
 
+## Dungeons
+[Heroic and Mythic Dungeons to Feature Mythic+ Dungeon Rotation in Season 1](https://www.wowhead.com/news/heroic-and-mythic-dungeons-to-feature-mythic-dungeon-rotation-in-season-1-346551)
+
+## Delve
+<img src="https://i.imgur.com/59ViOIU.png">
+
 ## Things
 * [How to Obtain Two Free 34-Slot Bags in The War Within](https://www.wowhead.com/news/how-to-obtain-two-free-34-slot-bags-in-the-war-within-346109)
 * [How to Obtain a Guaranteed ilvl571 Customizable Trinket - The War Within Early Access](https://www.wowhead.com/news/how-to-obtain-a-guaranteed-ilvl571-customizable-trinket-the-war-within-early-346100)
@@ -70,8 +76,13 @@
 ### Mists of Tirna Scithe
 * [https://wago.io/hVLym_eLv](https://wago.io/5X1DzV9fg)
 * [https://wago.io/5X1DzV9fg](https://wago.io/5X1DzV9fg)
+* [https://wago.io/04YHZsxIO](https://wago.io/04YHZsxIO)
+* [https://wago.io/tw_6jLFrB](https://wago.io/tw_6jLFrB)
 
 ## Dungeon/Raid
 
 ### Raid
 * [https://www.youtube.com/watch?v=zoVh1AF35AI](https://www.youtube.com/watch?v=zoVh1AF35AI)
+
+## Tipps
+* [Floating Combat Text](https://eu.battle.net/support/de/article/46205)
