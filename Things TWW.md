@@ -3,25 +3,62 @@
 ## Loot + Itemlvl
 * [TWW Loot and Item Tracks](https://docs.google.com/spreadsheets/d/e/2PACX-1vSaXopFLzFUjzbi70uHRTgFy7WB6haKXQrHQRoGKRxh4aQw7lRYf1--APhifezVit5WC3CachzaK9iq/pubhtml#)  
 <img src="https://wow.vi6.org/pics/m_delve_cest_itemlvl.png" style="width:125%;">
+* [Enchanted Heroic Crest for Killing Queen Ansurek on Any Difficulty - Story Mode Quest Reward](https://www.wowhead.com/news/enchanted-heroic-crest-for-killing-queen-ansurek-on-any-difficulty-story-mode-346741)
 
-## Ablauf
-<img src="https://bnetcmsus-a.akamaihd.net/cms/content_entry_media/ua/UAH4HD4AU1OJ1725553250430.png">
+[//]: # ( ## Ablauf )
+[//]: # (<img src="https://bnetcmsus-a.akamaihd.net/cms/content_entry_media/ua/UAH4HD4AU1OJ1725553250430.png">)
 
 ## Dungeons
 [Heroic and Mythic Dungeons to Feature Mythic+ Dungeon Rotation in Season 1](https://www.wowhead.com/news/heroic-and-mythic-dungeons-to-feature-mythic-dungeon-rotation-in-season-1-346551)
 
 ## Delve
-<img src="https://i.imgur.com/59ViOIU.png">
+<img src="https://i.imgur.com/59ViOIU.png">  
+* [Fastest Delves](https://www.wowhead.com/news/fastest-delves-to-run-for-vault-slots-in-the-war-within-season-1-346777)
 
 ## Things
 * [How to Obtain Two Free 34-Slot Bags in The War Within](https://www.wowhead.com/news/how-to-obtain-two-free-34-slot-bags-in-the-war-within-346109)
 * [How to Obtain a Guaranteed ilvl571 Customizable Trinket - The War Within Early Access](https://www.wowhead.com/news/how-to-obtain-a-guaranteed-ilvl571-customizable-trinket-the-war-within-early-346100)
+* [Fastest Ways to Earn Titan Disc Fragments for Spark Fragment](https://www.wowhead.com/news/fastest-ways-to-earn-titan-disc-fragments-for-spark-fragment-346883)
+* [Where to Turn In All Omni-Tokens in The War Within Season 1](https://www.wowhead.com/news/where-to-turn-in-all-omni-tokens-in-the-war-within-season-1-346857)
 
 ## Professions
 * [Fishing Profession Overview for The War Within](https://www.wowhead.com/guide/the-war-within/professions/fishing-overview)
 * [Buy 10 Profession Knowledge Points with Kej in The War Within!](https://www.wowhead.com/news/buy-10-profession-knowledge-points-with-kej-in-the-war-within-346116)
 * [Earn 350 Acuity Instantly in The War Within](https://www.wowhead.com/news/earn-350-acuity-instantly-in-the-war-within-crafting-to-order-346136)
 * [Knowledge Point Treasure Locations in The War Within TWW](https://www.wowhead.com/guide/the-war-within/professions/knowledge-point-treasure-locations)
+
+## Brewfest/Braufest
+
+DF:
+
+```
+/way Waking Shores 58.3 67.6
+/way Waking Shores 76.4 35.5
+/way Waking Shores 47.7 83.3
+/way The Azure Span:Dragon Isles 46.9 40.2
+/way The Azure Span:Dragon Isles 12.4 49.3
+/way The Azure Span:Dragon Isles 62.8 57.8
+/way Ohn'ahran Plains 28.6 60.5
+/way Ohn'ahran Plains 59.8 38.8
+/way Ohn'ahran Plains 85.8 35.4
+/way Thaldraszus 52.2 81.5
+/way Thaldraszus 50.1 42.7
+```
+
+TWW:
+
+```
+/way Dornogal 44.11 46.00 Bar Tab: Dornogal   
+/way Isle of Dorn 41.85 74.25 Bar Tab: Freywold Village   
+/way The Ringing Deeps 48.29 32.18 Bar Tab: Gundargaz
+/way The Ringing Deeps 63.35 78.82 Bar Tab: Opportunity Point
+/way Hallowfall 49.23 39.53 Bar Tab: Fjord Tavern
+/way Hallowfall 42.76 55.80 Bar Tab: Empire’s Edge Tavern
+/way City of Threads 57.76 39.87 Bar Tab :Lower: The Cobwebs
+/way City of Threads 49.84 21.52 Bar Tab: City of Threads, The Skittering Lounge
+/way Azj-Kahet 77.81 62.75 Bar Tab: Azj-Kahet: Rock Bottom Inn
+/way Azj-Kahet 56.72 38.71 Bar Tab: Azj-Kahet: The Trap Door
+```
 
 --
 
@@ -70,16 +107,15 @@
 ### Rare spawn
 * [Beledar - Mount](https://wago.io/xCLBExUB0)
 
-### City of Threads
+## Dungeon/Raid
 
+### City of Threads
 
 ### Mists of Tirna Scithe
 * [https://wago.io/hVLym_eLv](https://wago.io/5X1DzV9fg)
 * [https://wago.io/5X1DzV9fg](https://wago.io/5X1DzV9fg)
 * [https://wago.io/04YHZsxIO](https://wago.io/04YHZsxIO)
 * [https://wago.io/tw_6jLFrB](https://wago.io/tw_6jLFrB)
-
-## Dungeon/Raid
 
 ### Raid
 * [https://www.youtube.com/watch?v=zoVh1AF35AI](https://www.youtube.com/watch?v=zoVh1AF35AI)
