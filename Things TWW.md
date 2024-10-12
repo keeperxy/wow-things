@@ -11,8 +11,13 @@
 ## Dungeons
 [Heroic and Mythic Dungeons to Feature Mythic+ Dungeon Rotation in Season 1](https://www.wowhead.com/news/heroic-and-mythic-dungeons-to-feature-mythic-dungeon-rotation-in-season-1-346551)
 
+## Affix
+* [How to Handle the Devour Affix - All Available Dispels for Each Class](https://www.wowhead.com/news/how-to-handle-the-devour-affix-all-available-dispels-for-each-class-347846#hunter)`
+
 ## Delve
-<img src="https://i.imgur.com/59ViOIU.png">  
+
+[//]: <img src="https://i.imgur.com/59ViOIU.png">  
+
 * [Fastest Delves](https://www.wowhead.com/news/fastest-delves-to-run-for-vault-slots-in-the-war-within-season-1-346777)
 
 ## Things
@@ -23,6 +28,7 @@
 
 ## Professions
 * [Fishing Profession Overview for The War Within](https://www.wowhead.com/guide/the-war-within/professions/fishing-overview)
+	* [The Hallowfall Fishing Derby in The War Within](https://www.wowhead.com/guide/the-war-within/professions/the-hallowfall-fishing-derby)
 * [Buy 10 Profession Knowledge Points with Kej in The War Within!](https://www.wowhead.com/news/buy-10-profession-knowledge-points-with-kej-in-the-war-within-346116)
 * [Earn 350 Acuity Instantly in The War Within](https://www.wowhead.com/news/earn-350-acuity-instantly-in-the-war-within-crafting-to-order-346136)
 * [Knowledge Point Treasure Locations in The War Within TWW](https://www.wowhead.com/guide/the-war-within/professions/knowledge-point-treasure-locations)
