@@ -1,34 +1,24 @@
 # Things TWW
 
 ## Loot + Itemlvl
-* [TWW Loot and Item Tracks](https://docs.google.com/spreadsheets/d/e/2PACX-1vSaXopFLzFUjzbi70uHRTgFy7WB6haKXQrHQRoGKRxh4aQw7lRYf1--APhifezVit5WC3CachzaK9iq/pubhtml#)  
-<img src="https://wow.vi6.org/pics/m_delve_cest_itemlvl.png" style="width:125%;">
-* [Enchanted Heroic Crest for Killing Queen Ansurek on Any Difficulty - Story Mode Quest Reward](https://www.wowhead.com/news/enchanted-heroic-crest-for-killing-queen-ansurek-on-any-difficulty-story-mode-346741)
-
-[//]: # ( ## Ablauf )
-[//]: # (<img src="https://bnetcmsus-a.akamaihd.net/cms/content_entry_media/ua/UAH4HD4AU1OJ1725553250430.png">)
 
 ## Dungeons
 [Heroic and Mythic Dungeons to Feature Mythic+ Dungeon Rotation in Season 1](https://www.wowhead.com/news/heroic-and-mythic-dungeons-to-feature-mythic-dungeon-rotation-in-season-1-346551)
 
 ## Affix
-* [How to Handle the Devour Affix - All Available Dispels for Each Class](https://www.wowhead.com/news/how-to-handle-the-devour-affix-all-available-dispels-for-each-class-347846#hunter)`
 
 ## Delve
 
-[//]: <img src="https://i.imgur.com/59ViOIU.png">  
-
-* [Fastest Delves](https://www.wowhead.com/news/fastest-delves-to-run-for-vault-slots-in-the-war-within-season-1-346777)
-
 ## Things
 * [How to Obtain Two Free 34-Slot Bags in The War Within](https://www.wowhead.com/news/how-to-obtain-two-free-34-slot-bags-in-the-war-within-346109)
-* [How to Obtain a Guaranteed ilvl571 Customizable Trinket - The War Within Early Access](https://www.wowhead.com/news/how-to-obtain-a-guaranteed-ilvl571-customizable-trinket-the-war-within-early-346100)
+* [How to Obtain a Guaranteed ilvl 571 Customizable Trinket - The War Within Early Access](https://www.wowhead.com/news/how-to-obtain-a-guaranteed-ilvl571-customizable-trinket-the-war-within-early-346100)
 * [Fastest Ways to Earn Titan Disc Fragments for Spark Fragment](https://www.wowhead.com/news/fastest-ways-to-earn-titan-disc-fragments-for-spark-fragment-346883)
 * [Where to Turn In All Omni-Tokens in The War Within Season 1](https://www.wowhead.com/news/where-to-turn-in-all-omni-tokens-in-the-war-within-season-1-346857)
 
 ## Professions
 * [Fishing Profession Overview for The War Within](https://www.wowhead.com/guide/the-war-within/professions/fishing-overview)
-	* [The Hallowfall Fishing Derby in The War Within](https://www.wowhead.com/guide/the-war-within/professions/the-hallowfall-fishing-derby)
+* [The Hallowfall Fishing Derby in The War Within](https://www.wowhead.com/guide/the-war-within/professions/the-hallowfall-fishing-derby)
+
 * [Buy 10 Profession Knowledge Points with Kej in The War Within!](https://www.wowhead.com/news/buy-10-profession-knowledge-points-with-kej-in-the-war-within-346116)
 * [Earn 350 Acuity Instantly in The War Within](https://www.wowhead.com/news/earn-350-acuity-instantly-in-the-war-within-crafting-to-order-346136)
 * [Knowledge Point Treasure Locations in The War Within TWW](https://www.wowhead.com/guide/the-war-within/professions/knowledge-point-treasure-locations)
@@ -74,7 +64,6 @@ TWW:
 <img src="https://wow.vi6.org/pics/gloom_citin.jpeg" style="width:125%;">
 
 #### Hersteller
-* Kyrios-Forscherliga - Treatise
 
 ## Race
 * [Earthen Allied Race](https://www.wowhead.com/guide/allied-race/earthen)
@@ -90,7 +79,9 @@ TWW:
 
 ## Mounts
 * [How to Farm for the Beledar's Spawn Mount](https://www.wowhead.com/news/how-to-farm-for-the-beledars-spawn-mount-in-the-war-within-346104)
-`/run local a,b,c=258575,1000,{0,68821,45323,4740,6788,43066,25944,17293,18770,16166,9222,33660,32121,5799,18898,8889,14311,52915,40356,6758}for d=1,#c do a=a+c[d]TomTom:AddWaypoint(2215,floor(a/b)/b,a%b/b,{title="Beledar Spawn",from="Wowhead Script"})end`
+```
+/run local a,b,c=258575,1000,{0,68821,45323,4740,6788,43066,25944,17293,18770,16166,9222,33660,32121,5799,18898,8889,14311,52915,40356,6758}for d=1,#c do a=a+c[d]TomTom:AddWaypoint(2215,floor(a/b)/b,a%b/b,{title="Beledar Spawn",from="Wowhead Script"})end
+```
 * [Using Follower Dungeons to Solo Farm Siesbarg Mount Materials](https://www.wowhead.com/news/using-follower-dungeons-to-solo-farm-siesbarg-mount-materials-346232)
 
 ## Addons
@@ -102,7 +93,9 @@ TWW:
 
 ## Delves
 * [One Time Reputation Bonuses for Each Faction from Bountiful Delves](https://www.wowhead.com/news/one-time-reputation-bonuses-for-each-faction-from-bountiful-delves-346442)  
-`/run for k, v in pairs({ Assembly = 83318,Council = 83317,Spooders = 83319,Hallowfall = 83320}) do print(format("%s: %s", k, C_QuestLog.IsQuestFlaggedCompleted(v) and "\124cff00ff00Yes\124r" or "\124cffff0000No\124r")) end`
+```
+/run for k, v in pairs({ Assembly = 83318,Council = 83317,Spooders = 83319,Hallowfall = 83320}) do print(format("%s: %s", k, C_QuestLog.IsQuestFlaggedCompleted(v) and "\124cff00ff00Yes\124r" or "\124cffff0000No\124r")) end
+```
 
 ## Weakauras
 
@@ -128,3 +121,12 @@ TWW:
 
 ## Tipps
 * [Floating Combat Text](https://eu.battle.net/support/de/article/46205)
+
+### Macros
+* Algari Mana Oil on both Weapons
+
+```
+#showtooltip
+/use Algari Mana Oil
+/use [btn:1]16;[btn:2]17
+```
