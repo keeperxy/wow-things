@@ -22,6 +22,26 @@
 * [Buy 10 Profession Knowledge Points with Kej in The War Within!](https://www.wowhead.com/news/buy-10-profession-knowledge-points-with-kej-in-the-war-within-346116)
 * [Earn 350 Acuity Instantly in The War Within](https://www.wowhead.com/news/earn-350-acuity-instantly-in-the-war-within-crafting-to-order-346136)
 * [Knowledge Point Treasure Locations in The War Within TWW](https://www.wowhead.com/guide/the-war-within/professions/knowledge-point-treasure-locations)
+###Darkmoon Faire  
+* **Additional items required:**   
+ * Alchemy ( 5 Moonberry Juice - Vendor before Portal )   
+ * Inscription ( 5 Light Parchment `/way #84 49.8 74.2 Stanly McCormick` )
+ * Leatherworking ( 10 Shiny Bauble `/way #84 55.0 69.6 Catherine Leland`, 5 Coarse Thread, 5 Blue Dye `/way #84 71.6 62.8 Jillian Tanner` )
+ * Tailoring ( 1 Coarse Thread, 1 Red Dye, 1 Blue Dye `/way #84 71.6 62.8 Jillian Tanner` )
+ * Archaeology ( 15 Fossil Archaeology Fragments )
+ * Cooking ( 5 Simple Flour - Vendor before Portal )
+
+* **No item requirements:**
+ * Blacksmithing
+ * Enchanting
+ * Engineering
+ * Herbalism
+ * Jewelcrafting
+ * Mining
+ * Skinning
+ * First Aid
+ * Fishing
+
 
 ## Brewfest/Braufest
 
