@@ -25,22 +25,22 @@
 ###Darkmoon Faire  
 * **Additional items required:**   
  * Alchemy ( 5 Moonberry Juice - Vendor before Portal )   
- * Inscription ( 5 Light Parchment `/way #84 49.8 74.2 Stanly McCormick` )
- * Leatherworking ( 10 Shiny Bauble `/way #84 55.0 69.6 Catherine Leland`, 5 Coarse Thread, 5 Blue Dye `/way #84 71.6 62.8 Jillian Tanner` )
- * Tailoring ( 1 Coarse Thread, 1 Red Dye, 1 Blue Dye `/way #84 71.6 62.8 Jillian Tanner` )
- * Archaeology ( 15 Fossil Archaeology Fragments )
- * Cooking ( 5 Simple Flour - Vendor before Portal )
+ * Inscription ( 5 Light Parchment `/way #84 49.8 74.2 Stanly McCormick` )   
+ * Leatherworking ( 10 Shiny Bauble `/way #84 55.0 69.6 Catherine Leland`, 5 Coarse Thread, 5 Blue Dye `/way #84 71.6 62.8 Jillian Tanner` )   
+ * Tailoring ( 1 Coarse Thread, 1 Red Dye, 1 Blue Dye `/way #84 71.6 62.8 Jillian Tanner` )   
+ * Archaeology ( 15 Fossil Archaeology Fragments )   
+ * Cooking ( 5 Simple Flour - Vendor before Portal )   
 
-* **No item requirements:**
- * Blacksmithing
- * Enchanting
- * Engineering
- * Herbalism
- * Jewelcrafting
- * Mining
- * Skinning
- * First Aid
- * Fishing
+* **No item requirements:**   
+ * Blacksmithing   
+ * Enchanting   
+ * Engineering   
+ * Herbalism   
+ * Jewelcrafting   
+ * Mining   
+ * Skinning   
+ * First Aid   
+ * Fishing   
 
 
 ## Brewfest/Braufest
