@@ -1,4 +1,9 @@
 # Things TWW
+## 11.1
+* [Professions Updates in Patch 11.1 - New Recipes, Knowledge Point Resets](https://www.wowhead.com/news/professions-updates-in-patch-11-1-new-recipes-knowledge-point-resets-358476#new-profession-recipes)
+* [The War Within Patch 11.1: Undermine(d) Overview](https://www.wowhead.com/guide/the-war-within/patch-11-1-undermined-overview)   
+* [Season 2 Mythic+ Guide - The War Within](https://www.wowhead.com/guide/mythic-plus-dungeons/the-war-within-season-2/overview)
+
 
 ## Loot + Itemlvl
 
