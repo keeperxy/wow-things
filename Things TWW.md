@@ -8,9 +8,16 @@
 ## Loot + Itemlvl
 
 ## Dungeons
-[Heroic and Mythic Dungeons to Feature Mythic+ Dungeon Rotation in Season 1](https://www.wowhead.com/news/heroic-and-mythic-dungeons-to-feature-mythic-dungeon-rotation-in-season-1-346551)
+* [The War Within Season 2 Dungeon Rotation](https://www.wowhead.com/news/war-within-season-2-dungeon-rotation-theater-of-pain-and-operation-mechagon-350855)
+
+### Guides
+* [Operation Floodgate](https://www.youtube.com/watch?v=e0u3soAtNJs)
+
+#### Old
+* [Heroic and Mythic Dungeons to Feature Mythic+ Dungeon Rotation in Season 1](https://www.wowhead.com/news/heroic-and-mythic-dungeons-to-feature-mythic-dungeon-rotation-in-season-1-346551)
 
 ## Affix
+* [Mythic Affixes (On EU)](https://wowaffixes.info)
 
 ## Delve
 
@@ -23,10 +30,10 @@
 ## Professions
 * [Fishing Profession Overview for The War Within](https://www.wowhead.com/guide/the-war-within/professions/fishing-overview)
 * [The Hallowfall Fishing Derby in The War Within](https://www.wowhead.com/guide/the-war-within/professions/the-hallowfall-fishing-derby)
-
 * [Buy 10 Profession Knowledge Points with Kej in The War Within!](https://www.wowhead.com/news/buy-10-profession-knowledge-points-with-kej-in-the-war-within-346116)
 * [Earn 350 Acuity Instantly in The War Within](https://www.wowhead.com/news/earn-350-acuity-instantly-in-the-war-within-crafting-to-order-346136)
 * [Knowledge Point Treasure Locations in The War Within TWW](https://www.wowhead.com/guide/the-war-within/professions/knowledge-point-treasure-locations)
+
 ### Darkmoon Faire  
 * **Additional items required:**   
  * Alchemy ( 5 Moonberry Juice - Vendor before Portal )   
@@ -87,8 +94,6 @@ TWW:
 
 #### Leder
 <img src="https://wow.vi6.org/pics/gloom_citin.jpeg" style="width:125%;">
-
-#### Hersteller
 
 ## Race
 * [Earthen Allied Race](https://www.wowhead.com/guide/allied-race/earthen)
