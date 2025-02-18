@@ -21,24 +21,22 @@
 
 ### Priory of Sacred Flame
 
-### The MOTHERLODE!!
+### The MOTHERLODE
 * [ULTIMATE Guide to MOTHERLODE M+ | Quazii - EN](https://youtu.be/x8lLZruaoNQ?si=N2KetoUZw3SBK-fz)
 * [MOTHERLODE Mythic+ Guide: Mechanics & Boss Fights | TheLegendBehindTheCow - EN](https://youtu.be/XQKI25SgSFk?si=lJOrHfnWyXMLRggq)
-
+   
 ### Operation: Floodgate
 * [Operation Floodgate - EN](https://www.youtube.com/watch?v=e0u3soAtNJs)
 * [Operation Floodgate Mythic+ Guide: Mechanics & Boss Fights | TheLegendBehindTheCow - EN](https://youtu.be/e0u3soAtNJs?si=RYlrXTjQzCp2l4fs)  
-
-* [Big M.O.M.M.A. Guide: Operation Floodgate First Boss Mythic+](https://youtu.be/er2tvFxDBKQ?si=PEcFVbILQpei6Ind)
-* [Keeza Quickfuse & Bront Guide: Operation Floodgate Second Boss Mythic+](https://youtu.be/J2j7dJjNg0Q?si=5nCTeWi51zZtWRdS)
-* [Swampface Guide: Operation Floodgate Third Boss Mythic+](https://youtu.be/vJgy6HN4dIQ?si=gpHqsfz9kK9NGSHW)
-* [Geezle Gigazap Guide: Operation Floodgate Last Boss Mythic+](https://youtu.be/8wzVorZhk34?si=rKEF4BzYCzaHPqqt)
+ * [Big M.O.M.M.A. Guide: Operation Floodgate First Boss Mythic+](https://youtu.be/er2tvFxDBKQ?si=PEcFVbILQpei6Ind)
+ * [Keeza Quickfuse & Bront Guide: Operation Floodgate Second Boss Mythic+](https://youtu.be/J2j7dJjNg0Q?si=5nCTeWi51zZtWRdS)
+ * [Swampface Guide: Operation Floodgate Third Boss Mythic+](https://youtu.be/vJgy6HN4dIQ?si=gpHqsfz9kK9NGSHW)
+ * [Geezle Gigazap Guide: Operation Floodgate Last Boss Mythic+](https://youtu.be/8wzVorZhk34?si=rKEF4BzYCzaHPqqt)
 
 ### Theater of Pain
 * [ULTIMATE Guide to Theater of Pain M+ | Quazii - EN](https://youtu.be/hIlqp3On2mI?si=kQyeSW55t_f-yF9x)
 * [Theater of Pain Mythic+ Guide: Mechanics & Boss Fights | TheLegendBehindTheCow - EN](https://youtu.be/jYaWS-rp-fg?si=mbY0rf1F90p2wLii)
-
-* [The New Kul'tharok Boss Fight Guide in Theater of Pain Mythic+](https://youtu.be/FyVhmWk1uRI?si=gXPqJ-SFKluHHwZ2)
+ * [The New Kul'tharok Boss Fight Guide in Theater of Pain Mythic+](https://youtu.be/FyVhmWk1uRI?si=gXPqJ-SFKluHHwZ2)
 
 
 ### Operation Mechagon: Workshop

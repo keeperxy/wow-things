@@ -1,167 +1,741 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>WoW Things</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta charset="utf-8" />
-    <!-- stylesheet, scripts and fonts preload-->
-    <link rel="preload" href="js/casual-markdown.js" as="script" />
-    <link rel="preload" href="style.css" as="style" />
-    <link rel="preload" href="fonts/molengo-v16-latin-regular.woff2" as="font" />
-    <!-- stylesheet -->
-    <link rel="stylesheet" href="style.css" />
 
-    <!-- FontAwesome -->
-    <script defer src="js/brands.js"></script>
-    <script defer src="js/solid.js"></script>
-    <script defer src="js/fontawesome.js"></script>
+<head>
 
-    <!-- src: https://github.com/casualwriter/casual-markdown -->
-    <script src="js/casual-markdown.js"></script>
-
-    <!-- links open in new tab -->
-    <base target="_blank" />
-    <script type="text/javascript">
-      if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        document.documentElement.classList.add('dark');
-      } else {
-        document.documentElement.classList.add('light');
-      }
-
-      function toggledarklight() {
-        if (document.documentElement.classList.contains('dark')) {
-          document.documentElement.classList.remove('dark');
-          document.documentElement.classList.add('light');
-        } else {
-          document.documentElement.classList.remove('light');
-          document.documentElement.classList.add('dark');
-        }
-      }
-
-      function togglelogos() {
-        if (document.documentElement.classList.contains('nologo')) {
-          document.documentElement.classList.remove('nologo');
-          var elements = document.getElementsByClassName("worklist");
-          for(var i = elements.length - 1; i >= 0; --i) {
-            elements[i].classList.remove('nologo');
-          }
-        } else {
-          document.documentElement.classList.add('nologo');
-          var elements = document.getElementsByClassName("worklist");
-          for(var i = elements.length - 1; i >= 0; --i) {
-            elements[i].classList.add('nologo');
-          }
-        }
-      }
-    </script>
-  </head>
-  <body onload="document.body.innerHTML=md.html(document.body.innerHTML); document.body.style.display='block';">
-<div class="topbar"><button class="logoswitch" onclick="togglelogos()"><i class="fa-solid fa-images"></i></button> <button onclick="toggledarklight()"><i class="fa-solid fa-moon"></i></button></div>
-<!--======= COPY ABOVE CODE AS HEADER, THEN FOLLOW WITH RESUME CONTENT IN MARKDOWN FORMAT =========-->
-# Things TWW
-
-## Table of Contents
-* [Itemlvl](#Itemlvl)
-* [Ablauf](#Ablauf)
-* [Dungeons](#Dungeons)
-* [Delve](#Delve)
-* [Things](#Things)
-* [Professions](#Professions)
-* [Race](#Race)
-* [Loot](#Loot)
-* [Pets](#Pets)
-* [Mounts](#Mounts)
-* [Addons](#Addons)
-* [Transmogs](#Transmogs)
-* [Delves](#Delves)
-* [Weakauras](#Weakauras)
-* [Dungeon/Raid](#Dungeon/Raid)
-* [Tipps](##Tipps)
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<title>Things TWW</title>
 
 
-## Loot + Itemlvl
-* [TWW Loot and Item Tracks](https://docs.google.com/spreadsheets/d/e/2PACX-1vSaXopFLzFUjzbi70uHRTgFy7WB6haKXQrHQRoGKRxh4aQw7lRYf1--APhifezVit5WC3CachzaK9iq/pubhtml#)  
-<img src="https://wow.vi6.org/pics/m_delve_cest_itemlvl.png" style="width:125%;">
+<style type="text/css">
+body {
+  font-family: Helvetica, arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: white;
+  padding: 30px; }
 
-## Ablauf
-<img src="https://bnetcmsus-a.akamaihd.net/cms/content_entry_media/ua/UAH4HD4AU1OJ1725553250430.png">
+body > *:first-child {
+  margin-top: 0 !important; }
+body > *:last-child {
+  margin-bottom: 0 !important; }
 
-## Dungeons
-[Heroic and Mythic Dungeons to Feature Mythic+ Dungeon Rotation in Season 1](https://www.wowhead.com/news/heroic-and-mythic-dungeons-to-feature-mythic-dungeon-rotation-in-season-1-346551)
+a {
+  color: #4183C4; }
+a.absent {
+  color: #cc0000; }
+a.anchor {
+  display: block;
+  padding-left: 30px;
+  margin-left: -30px;
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0; }
 
-## Delve
-<img src="https://i.imgur.com/59ViOIU.png">
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+  cursor: text;
+  position: relative; }
 
-## Things
-* [How to Obtain Two Free 34-Slot Bags in The War Within](https://www.wowhead.com/news/how-to-obtain-two-free-34-slot-bags-in-the-war-within-346109)
-* [How to Obtain a Guaranteed ilvl571 Customizable Trinket - The War Within Early Access](https://www.wowhead.com/news/how-to-obtain-a-guaranteed-ilvl571-customizable-trinket-the-war-within-early-346100)
+h1:hover a.anchor, h2:hover a.anchor, h3:hover a.anchor, h4:hover a.anchor, h5:hover a.anchor, h6:hover a.anchor {
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA09pVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoMTMuMCAyMDEyMDMwNS5tLjQxNSAyMDEyLzAzLzA1OjIxOjAwOjAwKSAgKE1hY2ludG9zaCkiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OUM2NjlDQjI4ODBGMTFFMTg1ODlEODNERDJBRjUwQTQiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OUM2NjlDQjM4ODBGMTFFMTg1ODlEODNERDJBRjUwQTQiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo5QzY2OUNCMDg4MEYxMUUxODU4OUQ4M0REMkFGNTBBNCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo5QzY2OUNCMTg4MEYxMUUxODU4OUQ4M0REMkFGNTBBNCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PsQhXeAAAABfSURBVHjaYvz//z8DJYCRUgMYQAbAMBQIAvEqkBQWXI6sHqwHiwG70TTBxGaiWwjCTGgOUgJiF1J8wMRAIUA34B4Q76HUBelAfJYSA0CuMIEaRP8wGIkGMA54bgQIMACAmkXJi0hKJQAAAABJRU5ErkJggg==) no-repeat 10px center;
+  text-decoration: none; }
 
-## Professions
-* [Fishing Profession Overview for The War Within](https://www.wowhead.com/guide/the-war-within/professions/fishing-overview)
-* [Buy 10 Profession Knowledge Points with Kej in The War Within!](https://www.wowhead.com/news/buy-10-profession-knowledge-points-with-kej-in-the-war-within-346116)
-* [Earn 350 Acuity Instantly in The War Within](https://www.wowhead.com/news/earn-350-acuity-instantly-in-the-war-within-crafting-to-order-346136)
-* [Knowledge Point Treasure Locations in The War Within TWW](https://www.wowhead.com/guide/the-war-within/professions/knowledge-point-treasure-locations)
+h1 tt, h1 code {
+  font-size: inherit; }
 
---
+h2 tt, h2 code {
+  font-size: inherit; }
 
-### Farmspots
+h3 tt, h3 code {
+  font-size: inherit; }
 
-#### Leder
-<img src="https://wow.vi6.org/pics/gloom_citin.jpeg" style="width:125%;">
+h4 tt, h4 code {
+  font-size: inherit; }
 
-#### Hersteller
-* Kyrios-Forscherliga - Treatise
+h5 tt, h5 code {
+  font-size: inherit; }
 
-## Race
-* [Earthen Allied Race](https://www.wowhead.com/guide/allied-race/earthen)
+h6 tt, h6 code {
+  font-size: inherit; }
 
-## Rares and Loot
-* [Isle of Dorn](https://www.wowhead.com/guide/the-war-within/isle-of-dorn-rares-and-treasures)
-* [Ringing Deeps](https://www.wowhead.com/guide/the-war-within/the-ringing-deeps-rares-and-treasures)
-* [Hallowfall](https://www.wowhead.com/guide/the-war-within/hallowfall-rares-and-treasures)
-* [Azj-Kahet](https://www.wowhead.com/guide/the-war-within/azj-kahet-rares-and-treasures)
+h1 {
+  font-size: 28px;
+  color: black; }
 
-## Pets
-* [Free Pet with Discord](https://www.wowhead.com/news/free-parrlok-pet-for-streaming-world-of-warcraft-discord-cross-promotion-346080)
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #cccccc;
+  color: black; }
 
-## Mounts
-* [How to Farm for the Beledar's Spawn Mount](https://www.wowhead.com/news/how-to-farm-for-the-beledars-spawn-mount-in-the-war-within-346104)
-`/run local a,b,c=258575,1000,{0,68821,45323,4740,6788,43066,25944,17293,18770,16166,9222,33660,32121,5799,18898,8889,14311,52915,40356,6758}for d=1,#c do a=a+c[d]TomTom:AddWaypoint(2215,floor(a/b)/b,a%b/b,{title="Beledar Spawn",from="Wowhead Script"})end`
-* [Using Follower Dungeons to Solo Farm Siesbarg Mount Materials](https://www.wowhead.com/news/using-follower-dungeons-to-solo-farm-siesbarg-mount-materials-346232)
+h3 {
+  font-size: 18px; }
 
-## Addons
-* [https://www.curseforge.com/wow/addons/teleport-me-nu](https://www.curseforge.com/wow/addons/teleport-me-nu)
+h4 {
+  font-size: 16px; }
 
-## Transmogs
-* [https://www.wowhead.com/news/how-to-obtain-the-garlic-knots-off-hand-transmog-in-the-war-within-346114](https://www.wowhead.com/news/how-to-obtain-the-garlic-knots-off-hand-transmog-in-the-war-within-346114)
-* [Unique Transmogs from Hallowfall Quests - Torches, Gardening Tools](https://www.wowhead.com/news/unique-transmogs-from-hallowfall-quests-torches-gardening-tools-346215)
+h5 {
+  font-size: 14px; }
 
-## Delves
-* [One Time Reputation Bonuses for Each Faction from Bountiful Delves](https://www.wowhead.com/news/one-time-reputation-bonuses-for-each-faction-from-bountiful-delves-346442)  
-`/run for k, v in pairs({ Assembly = 83318,Council = 83317,Spooders = 83319,Hallowfall = 83320}) do print(format("%s: %s", k, C_QuestLog.IsQuestFlaggedCompleted(v) and "\124cff00ff00Yes\124r" or "\124cffff0000No\124r")) end`
+h6 {
+  color: #777777;
+  font-size: 14px; }
 
-## Weakauras
+p, blockquote, ul, ol, dl, li, table, pre {
+  margin: 15px 0; }
 
-### Things
-* [https://wago.io/1sM5HSqzd](https://wago.io/1sM5HSqzd) - Check if you have done all Reputation Quests
-* [Additional Options for Tracking Weekly Profession Knowledge Points](https://www.wowhead.com/news/additional-options-for-tracking-weekly-profession-knowledge-points-346314)
+hr {
+  background: transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAECAYAAACtBE5DAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBNYWNpbnRvc2giIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OENDRjNBN0E2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OENDRjNBN0I2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo4Q0NGM0E3ODY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo4Q0NGM0E3OTY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PqqezsUAAAAfSURBVHjaYmRABcYwBiM2QSA4y4hNEKYDQxAEAAIMAHNGAzhkPOlYAAAAAElFTkSuQmCC) repeat-x 0 0;
+  border: 0 none;
+  color: #cccccc;
+  height: 4px;
+  padding: 0;
+}
 
-### Rare spawn
-* [Beledar - Mount](https://wago.io/xCLBExUB0)
+body > h2:first-child {
+  margin-top: 0;
+  padding-top: 0; }
+body > h1:first-child {
+  margin-top: 0;
+  padding-top: 0; }
+  body > h1:first-child + h2 {
+    margin-top: 0;
+    padding-top: 0; }
+body > h3:first-child, body > h4:first-child, body > h5:first-child, body > h6:first-child {
+  margin-top: 0;
+  padding-top: 0; }
 
-### City of Threads
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0; }
+
+h1 p, h2 p, h3 p, h4 p, h5 p, h6 p {
+  margin-top: 0; }
+
+li p.first {
+  display: inline-block; }
+li {
+  margin: 0; }
+ul, ol {
+  padding-left: 30px; }
+
+ul :first-child, ol :first-child {
+  margin-top: 0; }
+
+dl {
+  padding: 0; }
+  dl dt {
+    font-size: 14px;
+    font-weight: bold;
+    font-style: italic;
+    padding: 0;
+    margin: 15px 0 5px; }
+    dl dt:first-child {
+      padding: 0; }
+    dl dt > :first-child {
+      margin-top: 0; }
+    dl dt > :last-child {
+      margin-bottom: 0; }
+  dl dd {
+    margin: 0 0 15px;
+    padding: 0 15px; }
+    dl dd > :first-child {
+      margin-top: 0; }
+    dl dd > :last-child {
+      margin-bottom: 0; }
+
+blockquote {
+  border-left: 4px solid #dddddd;
+  padding: 0 15px;
+  color: #777777; }
+  blockquote > :first-child {
+    margin-top: 0; }
+  blockquote > :last-child {
+    margin-bottom: 0; }
+
+table {
+  padding: 0;border-collapse: collapse; }
+  table tr {
+    border-top: 1px solid #cccccc;
+    background-color: white;
+    margin: 0;
+    padding: 0; }
+    table tr:nth-child(2n) {
+      background-color: #f8f8f8; }
+    table tr th {
+      font-weight: bold;
+      border: 1px solid #cccccc;
+      margin: 0;
+      padding: 6px 13px; }
+    table tr td {
+      border: 1px solid #cccccc;
+      margin: 0;
+      padding: 6px 13px; }
+    table tr th :first-child, table tr td :first-child {
+      margin-top: 0; }
+    table tr th :last-child, table tr td :last-child {
+      margin-bottom: 0; }
+
+img {
+  max-width: 100%; }
+
+span.frame {
+  display: block;
+  overflow: hidden; }
+  span.frame > span {
+    border: 1px solid #dddddd;
+    display: block;
+    float: left;
+    overflow: hidden;
+    margin: 13px 0 0;
+    padding: 7px;
+    width: auto; }
+  span.frame span img {
+    display: block;
+    float: left; }
+  span.frame span span {
+    clear: both;
+    color: #333333;
+    display: block;
+    padding: 5px 0 0; }
+span.align-center {
+  display: block;
+  overflow: hidden;
+  clear: both; }
+  span.align-center > span {
+    display: block;
+    overflow: hidden;
+    margin: 13px auto 0;
+    text-align: center; }
+  span.align-center span img {
+    margin: 0 auto;
+    text-align: center; }
+span.align-right {
+  display: block;
+  overflow: hidden;
+  clear: both; }
+  span.align-right > span {
+    display: block;
+    overflow: hidden;
+    margin: 13px 0 0;
+    text-align: right; }
+  span.align-right span img {
+    margin: 0;
+    text-align: right; }
+span.float-left {
+  display: block;
+  margin-right: 13px;
+  overflow: hidden;
+  float: left; }
+  span.float-left span {
+    margin: 13px 0 0; }
+span.float-right {
+  display: block;
+  margin-left: 13px;
+  overflow: hidden;
+  float: right; }
+  span.float-right > span {
+    display: block;
+    overflow: hidden;
+    margin: 13px auto 0;
+    text-align: right; }
+
+code, tt {
+  margin: 0 2px;
+  padding: 0 5px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px; }
+
+pre code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent; }
+
+.highlight pre {
+  background-color: #f8f8f8;
+  border: 1px solid #cccccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px; }
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #cccccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px; }
+  pre code, pre tt {
+    background-color: transparent;
+    border: none; }
+
+sup {
+    font-size: 0.83em;
+    vertical-align: super;
+    line-height: 0;
+}
+
+kbd {
+  display: inline-block;
+  padding: 3px 5px;
+  font-size: 11px;
+  line-height: 10px;
+  color: #555;
+  vertical-align: middle;
+  background-color: #fcfcfc;
+  border: solid 1px #ccc;
+  border-bottom-color: #bbb;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 #bbb
+}
+
+* {
+	-webkit-print-color-adjust: exact;
+}
+@media screen and (min-width: 914px) {
+    body {
+        width: 854px;
+        margin:0 auto;
+    }
+}
+@media print {
+	table, pre {
+		page-break-inside: avoid;
+	}
+	pre {
+		word-wrap: break-word;
+	}
+  body {
+    padding: 2cm; 
+  }
+}
+</style>
+
+<style type="text/css">
+/**
+ * prism.js default theme for JavaScript, CSS and HTML
+ * Based on dabblet (http://dabblet.com)
+ * @author Lea Verou
+ */
+
+code[class*="language-"],
+pre[class*="language-"] {
+	color: black;
+	background: none;
+	text-shadow: 0 1px white;
+	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	word-wrap: normal;
+	line-height: 1.5;
+
+	-moz-tab-size: 4;
+	-o-tab-size: 4;
+	tab-size: 4;
+
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+}
+
+pre[class*="language-"]::-moz-selection, pre[class*="language-"] ::-moz-selection,
+code[class*="language-"]::-moz-selection, code[class*="language-"] ::-moz-selection {
+	text-shadow: none;
+	background: #b3d4fc;
+}
+
+pre[class*="language-"]::selection, pre[class*="language-"] ::selection,
+code[class*="language-"]::selection, code[class*="language-"] ::selection {
+	text-shadow: none;
+	background: #b3d4fc;
+}
+
+@media print {
+	code[class*="language-"],
+	pre[class*="language-"] {
+		text-shadow: none;
+	}
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+	padding: 1em;
+	margin: .5em 0;
+	overflow: auto;
+}
+
+:not(pre) > code[class*="language-"],
+pre[class*="language-"] {
+	background: #f5f2f0;
+}
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+	padding: .1em;
+	border-radius: .3em;
+	white-space: normal;
+}
+
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+	color: slategray;
+}
+
+.token.punctuation {
+	color: #999;
+}
+
+.namespace {
+	opacity: .7;
+}
+
+.token.property,
+.token.tag,
+.token.boolean,
+.token.number,
+.token.constant,
+.token.symbol,
+.token.deleted {
+	color: #905;
+}
+
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin,
+.token.inserted {
+	color: #690;
+}
+
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string {
+	color: #a67f59;
+	background: hsla(0, 0%, 100%, .5);
+}
+
+.token.atrule,
+.token.attr-value,
+.token.keyword {
+	color: #07a;
+}
+
+.token.function {
+	color: #DD4A68;
+}
+
+.token.regex,
+.token.important,
+.token.variable {
+	color: #e90;
+}
+
+.token.important,
+.token.bold {
+	font-weight: bold;
+}
+.token.italic {
+	font-style: italic;
+}
+
+.token.entity {
+	cursor: help;
+}
+</style>
 
 
-### Mists of Tirna Scithe
-* [https://wago.io/hVLym_eLv](https://wago.io/5X1DzV9fg)
-* [https://wago.io/5X1DzV9fg](https://wago.io/5X1DzV9fg)
-* [https://wago.io/04YHZsxIO](https://wago.io/04YHZsxIO)
-* [https://wago.io/tw_6jLFrB](https://wago.io/tw_6jLFrB)
+</head>
 
-## Dungeon/Raid
+<body>
 
-### Raid
-* [https://www.youtube.com/watch?v=zoVh1AF35AI](https://www.youtube.com/watch?v=zoVh1AF35AI)
+<h1 id="toc_0">Things TWW</h1>
 
-## Tipps
-* [Floating Combat Text](https://eu.battle.net/support/de/article/46205)
+<h2 id="toc_1">11.1</h2>
+
+<ul>
+<li><a href="https://www.wowhead.com/news/professions-updates-in-patch-11-1-new-recipes-knowledge-point-resets-358476#new-profession-recipes">Professions Updates in Patch 11.1 - New Recipes, Knowledge Point Resets</a></li>
+<li><a href="https://www.wowhead.com/guide/the-war-within/patch-11-1-undermined-overview">The War Within Patch 11.1: Undermine(d) Overview</a><br></li>
+<li><a href="https://www.wowhead.com/guide/mythic-plus-dungeons/the-war-within-season-2/overview">Season 2 Mythic+ Guide - The War Within</a></li>
+<li><a href="https://www.youtube.com/watch?v=xhXWGaV3l5c">Season 2 - Dispells etc.</a></li>
+<li><a href="https://www.youtube.com/watch?v=q_MnU5BC3Vk">Casting Mistweaver Guide - The War Within: Season 2</a></li>
+<li><a href="https://www.wowhead.com/news/undermine-d-official-overview-the-war-within-season-2-liberation-of-undermine-371721">11.1 Overview</a></li>
+</ul>
+
+<h2 id="toc_2">Loot + Itemlvl</h2>
+
+<h2 id="toc_3">Dungeon/Raid</h2>
+
+<ul>
+<li><a href="https://www.wowhead.com/news/war-within-season-2-dungeon-rotation-theater-of-pain-and-operation-mechagon-350855">The War Within Season 2 Dungeon Rotation</a></li>
+</ul>
+
+<h3 id="toc_4">Cinderbrew Meadery</h3>
+
+<h3 id="toc_5">Darkflame Cleft</h3>
+
+<h3 id="toc_6">The Rookery</h3>
+
+<h3 id="toc_7">Priory of Sacred Flame</h3>
+
+<h3 id="toc_8">The MOTHERLODE</h3>
+
+<ul>
+<li><a href="https://youtu.be/x8lLZruaoNQ?si=N2KetoUZw3SBK-fz">ULTIMATE Guide to MOTHERLODE M+ | Quazii - EN</a></li>
+<li><a href="https://youtu.be/XQKI25SgSFk?si=lJOrHfnWyXMLRggq">MOTHERLODE Mythic+ Guide: Mechanics &amp; Boss Fights | TheLegendBehindTheCow - EN</a></li>
+</ul>
+
+<h3 id="toc_9"> Operation: Floodgate</h3>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=e0u3soAtNJs">Operation Floodgate - EN</a></li>
+<li><a href="https://youtu.be/e0u3soAtNJs?si=RYlrXTjQzCp2l4fs">Operation Floodgate Mythic+ Guide: Mechanics &amp; Boss Fights | TheLegendBehindTheCow - EN</a><br>
+
+<ul>
+<li><a href="https://youtu.be/er2tvFxDBKQ?si=PEcFVbILQpei6Ind">Big M.O.M.M.A. Guide: Operation Floodgate First Boss Mythic+</a></li>
+<li><a href="https://youtu.be/J2j7dJjNg0Q?si=5nCTeWi51zZtWRdS">Keeza Quickfuse &amp; Bront Guide: Operation Floodgate Second Boss Mythic+</a></li>
+<li><a href="https://youtu.be/vJgy6HN4dIQ?si=gpHqsfz9kK9NGSHW">Swampface Guide: Operation Floodgate Third Boss Mythic+</a></li>
+<li><a href="https://youtu.be/8wzVorZhk34?si=rKEF4BzYCzaHPqqt">Geezle Gigazap Guide: Operation Floodgate Last Boss Mythic+</a></li>
+</ul></li>
+</ul>
+
+<h3 id="toc_10">Theater of Pain</h3>
+
+<ul>
+<li><a href="https://youtu.be/hIlqp3On2mI?si=kQyeSW55t_f-yF9x">ULTIMATE Guide to Theater of Pain M+ | Quazii - EN</a></li>
+<li><a href="https://youtu.be/jYaWS-rp-fg?si=mbY0rf1F90p2wLii">Theater of Pain Mythic+ Guide: Mechanics &amp; Boss Fights | TheLegendBehindTheCow - EN</a>
+
+<ul>
+<li><a href="https://youtu.be/FyVhmWk1uRI?si=gXPqJ-SFKluHHwZ2">The New Kul&#39;tharok Boss Fight Guide in Theater of Pain Mythic+</a></li>
+</ul></li>
+</ul>
+
+<h3 id="toc_11">Operation Mechagon: Workshop</h3>
+
+<ul>
+<li><a href="https://youtu.be/SbPsEWjxR_s?si=fMziNBwsZTCZQER0">ULTIMATE Guide to Mechagon Workshop M+ | Quazii - EN</a></li>
+</ul>
+
+<h4 id="toc_12">Old</h4>
+
+<ul>
+<li><a href="https://www.wowhead.com/news/heroic-and-mythic-dungeons-to-feature-mythic-dungeon-rotation-in-season-1-346551">Heroic and Mythic Dungeons to Feature Mythic+ Dungeon Rotation in Season 1</a></li>
+</ul>
+
+<h2 id="toc_13">Affix</h2>
+
+<ul>
+<li><a href="https://wowaffixes.info">Mythic Affixes (On EU)</a></li>
+</ul>
+
+<h2 id="toc_14">Delve</h2>
+
+<h2 id="toc_15">Things</h2>
+
+<ul>
+<li><a href="https://www.wowhead.com/news/how-to-obtain-two-free-34-slot-bags-in-the-war-within-346109">How to Obtain Two Free 34-Slot Bags in The War Within</a></li>
+<li><a href="https://www.wowhead.com/news/how-to-obtain-a-guaranteed-ilvl571-customizable-trinket-the-war-within-early-346100">How to Obtain a Guaranteed ilvl 571 Customizable Trinket - The War Within Early Access</a></li>
+<li><a href="https://www.wowhead.com/news/fastest-ways-to-earn-titan-disc-fragments-for-spark-fragment-346883">Fastest Ways to Earn Titan Disc Fragments for Spark Fragment</a></li>
+<li><a href="https://www.wowhead.com/news/where-to-turn-in-all-omni-tokens-in-the-war-within-season-1-346857">Where to Turn In All Omni-Tokens in The War Within Season 1</a></li>
+</ul>
+
+<h2 id="toc_16">Professions</h2>
+
+<ul>
+<li><a href="https://www.wowhead.com/guide/the-war-within/professions/fishing-overview">Fishing Profession Overview for The War Within</a></li>
+<li><a href="https://www.wowhead.com/guide/the-war-within/professions/the-hallowfall-fishing-derby">The Hallowfall Fishing Derby in The War Within</a></li>
+<li><a href="https://www.wowhead.com/news/buy-10-profession-knowledge-points-with-kej-in-the-war-within-346116">Buy 10 Profession Knowledge Points with Kej in The War Within!</a></li>
+<li><a href="https://www.wowhead.com/news/earn-350-acuity-instantly-in-the-war-within-crafting-to-order-346136">Earn 350 Acuity Instantly in The War Within</a></li>
+<li><a href="https://www.wowhead.com/guide/the-war-within/professions/knowledge-point-treasure-locations">Knowledge Point Treasure Locations in The War Within TWW</a></li>
+</ul>
+
+<h3 id="toc_17">Skinning</h3>
+
+<p>Superb Elusive Creatures, requiring 40/40 in Trained Tracker Trained Tracker. Summoned by placing a Supreme Beast Lure   </p>
+
+<ul>
+<li>Slatefang, located in The Ringing Deeps: `<code>/way #2214 62.09 50.62 The Rumbling Wastes</code> → Only source of Superb Beast Fang</li>
+</ul>
+
+<h3 id="toc_18">Darkmoon Faire</h3>
+
+<ul>
+<li><p><strong>Additional items required:</strong>   </p>
+
+<ul>
+<li>Alchemy ( 5 Moonberry Juice - Vendor before Portal )<br></li>
+<li>Inscription ( 5 Light Parchment <code>/way #84 49.8 74.2 Stanly McCormick</code> )<br></li>
+<li>Leatherworking ( 10 Shiny Bauble <code>/way #84 55.0 69.6 Catherine Leland</code>, 5 Coarse Thread, 5 Blue Dye <code>/way #84 71.6 62.8 Jillian Tanner</code> )<br></li>
+<li>Tailoring ( 1 Coarse Thread, 1 Red Dye, 1 Blue Dye <code>/way #84 71.6 62.8 Jillian Tanner</code> )<br></li>
+<li>Archaeology ( 15 Fossil Archaeology Fragments )<br></li>
+<li>Cooking ( 5 Simple Flour - Vendor before Portal )<br></li>
+</ul></li>
+<li><p><strong>No item requirements:</strong>   </p>
+
+<ul>
+<li>Blacksmithing<br></li>
+<li>Enchanting<br></li>
+<li>Engineering<br></li>
+<li>Herbalism<br></li>
+<li>Jewelcrafting<br></li>
+<li>Mining<br></li>
+<li>Skinning<br></li>
+<li>First Aid<br></li>
+<li>Fishing<br></li>
+</ul></li>
+</ul>
+
+<h2 id="toc_19">Brewfest/Braufest</h2>
+
+<p>DF:</p>
+
+<div><pre><code class="language-none">/way Waking Shores 58.3 67.6
+/way Waking Shores 76.4 35.5
+/way Waking Shores 47.7 83.3
+/way The Azure Span:Dragon Isles 46.9 40.2
+/way The Azure Span:Dragon Isles 12.4 49.3
+/way The Azure Span:Dragon Isles 62.8 57.8
+/way Ohn&#39;ahran Plains 28.6 60.5
+/way Ohn&#39;ahran Plains 59.8 38.8
+/way Ohn&#39;ahran Plains 85.8 35.4
+/way Thaldraszus 52.2 81.5
+/way Thaldraszus 50.1 42.7</code></pre></div>
+
+<p>TWW:</p>
+
+<div><pre><code class="language-none">/way Dornogal 44.11 46.00 Bar Tab: Dornogal   
+/way Isle of Dorn 41.85 74.25 Bar Tab: Freywold Village   
+/way The Ringing Deeps 48.29 32.18 Bar Tab: Gundargaz
+/way The Ringing Deeps 63.35 78.82 Bar Tab: Opportunity Point
+/way Hallowfall 49.23 39.53 Bar Tab: Fjord Tavern
+/way Hallowfall 42.76 55.80 Bar Tab: Empire’s Edge Tavern
+/way City of Threads 57.76 39.87 Bar Tab :Lower: The Cobwebs
+/way City of Threads 49.84 21.52 Bar Tab: City of Threads, The Skittering Lounge
+/way Azj-Kahet 77.81 62.75 Bar Tab: Azj-Kahet: Rock Bottom Inn
+/way Azj-Kahet 56.72 38.71 Bar Tab: Azj-Kahet: The Trap Door</code></pre></div>
+
+<h2 id="toc_20"></h2>
+
+<h3 id="toc_21">Farmspots</h3>
+
+<h4 id="toc_22">Leder</h4>
+
+<p><img src="https://wow.vi6.org/pics/gloom_citin.jpeg" style="width:100%;"></p>
+
+<h2 id="toc_23">Race</h2>
+
+<ul>
+<li><a href="https://www.wowhead.com/guide/allied-race/earthen">Earthen Allied Race</a></li>
+</ul>
+
+<h2 id="toc_24">Rares and Loot</h2>
+
+<ul>
+<li><a href="https://www.wowhead.com/guide/the-war-within/isle-of-dorn-rares-and-treasures">Isle of Dorn</a></li>
+<li><a href="https://www.wowhead.com/guide/the-war-within/the-ringing-deeps-rares-and-treasures">Ringing Deeps</a></li>
+<li><a href="https://www.wowhead.com/guide/the-war-within/hallowfall-rares-and-treasures">Hallowfall</a></li>
+<li><a href="https://www.wowhead.com/guide/the-war-within/azj-kahet-rares-and-treasures">Azj-Kahet</a></li>
+</ul>
+
+<h2 id="toc_25">Pets</h2>
+
+<ul>
+<li><a href="https://www.wowhead.com/news/free-parrlok-pet-for-streaming-world-of-warcraft-discord-cross-promotion-346080">Free Pet with Discord</a></li>
+<li><a href="https://www.wowhead.com/news/inky-snapdragon-treat-final-prismatic-snapdragon-color-variation-found-365512">Inky Snapdragon Treat - Final Prismatic Snapdragon Color Variation Found</a></li>
+</ul>
+
+<h2 id="toc_26">Mounts</h2>
+
+<ul>
+<li><a href="https://www.wowhead.com/news/how-to-farm-for-the-beledars-spawn-mount-in-the-war-within-346104">How to Farm for the Beledar&#39;s Spawn Mount</a>
+<code>
+/run local a,b,c=258575,1000,{0,68821,45323,4740,6788,43066,25944,17293,18770,16166,9222,33660,32121,5799,18898,8889,14311,52915,40356,6758}for d=1,#c do a=a+c[d]TomTom:AddWaypoint(2215,floor(a/b)/b,a%b/b,{title=&quot;Beledar Spawn&quot;,from=&quot;Wowhead Script&quot;})end
+</code></li>
+<li><a href="https://www.wowhead.com/news/using-follower-dungeons-to-solo-farm-siesbarg-mount-materials-346232">Using Follower Dungeons to Solo Farm Siesbarg Mount Materials</a></li>
+</ul>
+
+<h2 id="toc_27">Addons</h2>
+
+<ul>
+<li><a href="https://www.curseforge.com/wow/addons/teleport-me-nu">https://www.curseforge.com/wow/addons/teleport-me-nu</a></li>
+</ul>
+
+<h2 id="toc_28">Transmogs</h2>
+
+<ul>
+<li><a href="https://www.wowhead.com/news/how-to-obtain-the-garlic-knots-off-hand-transmog-in-the-war-within-346114">https://www.wowhead.com/news/how-to-obtain-the-garlic-knots-off-hand-transmog-in-the-war-within-346114</a></li>
+<li><a href="https://www.wowhead.com/news/unique-transmogs-from-hallowfall-quests-torches-gardening-tools-346215">Unique Transmogs from Hallowfall Quests - Torches, Gardening Tools</a></li>
+</ul>
+
+<h2 id="toc_29">Delves</h2>
+
+<ul>
+<li><a href="https://www.wowhead.com/news/one-time-reputation-bonuses-for-each-faction-from-bountiful-delves-346442">One Time Reputation Bonuses for Each Faction from Bountiful Delves</a><br>
+<code>
+/run for k, v in pairs({ Assembly = 83318,Council = 83317,Spooders = 83319,Hallowfall = 83320}) do print(format(&quot;%s: %s&quot;, k, C_QuestLog.IsQuestFlaggedCompleted(v) and &quot;\124cff00ff00Yes\124r&quot; or &quot;\124cffff0000No\124r&quot;)) end
+</code></li>
+</ul>
+
+<h2 id="toc_30">Weakauras</h2>
+
+<h3 id="toc_31">Things</h3>
+
+<ul>
+<li><a href="https://wago.io/1sM5HSqzd">https://wago.io/1sM5HSqzd</a> - Check if you have done all Reputation Quests</li>
+<li><a href="https://www.wowhead.com/news/additional-options-for-tracking-weekly-profession-knowledge-points-346314">Additional Options for Tracking Weekly Profession Knowledge Points</a></li>
+</ul>
+
+<h3 id="toc_32">Rare spawn</h3>
+
+<ul>
+<li><a href="https://wago.io/xCLBExUB0">Beledar - Mount</a></li>
+</ul>
+
+<h2 id="toc_33">Tipps</h2>
+
+<ul>
+<li><a href="https://eu.battle.net/support/de/article/46205">Floating Combat Text</a></li>
+</ul>
+
+<h3 id="toc_34">Macros</h3>
+
+<ul>
+<li>Algari Mana Oil on both Weapons</li>
+</ul>
+
+<div><pre><code class="language-none">#showtooltip   
+/use Algari Mana Oil   
+/use [btn:1]16;[btn:2]17   </code></pre></div>
+
+
+
+<script type="text/javascript">
+var _self="undefined"!=typeof window?window:"undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?self:{},Prism=function(){var e=/\blang(?:uage)?-(\w+)\b/i,t=0,n=_self.Prism={util:{encode:function(e){return e instanceof a?new a(e.type,n.util.encode(e.content),e.alias):"Array"===n.util.type(e)?e.map(n.util.encode):e.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/\u00a0/g," ")},type:function(e){return Object.prototype.toString.call(e).match(/\[object (\w+)\]/)[1]},objId:function(e){return e.__id||Object.defineProperty(e,"__id",{value:++t}),e.__id},clone:function(e){var t=n.util.type(e);switch(t){case"Object":var a={};for(var r in e)e.hasOwnProperty(r)&&(a[r]=n.util.clone(e[r]));return a;case"Array":return e.map&&e.map(function(e){return n.util.clone(e)})}return e}},languages:{extend:function(e,t){var a=n.util.clone(n.languages[e]);for(var r in t)a[r]=t[r];return a},insertBefore:function(e,t,a,r){r=r||n.languages;var l=r[e];if(2==arguments.length){a=arguments[1];for(var i in a)a.hasOwnProperty(i)&&(l[i]=a[i]);return l}var o={};for(var s in l)if(l.hasOwnProperty(s)){if(s==t)for(var i in a)a.hasOwnProperty(i)&&(o[i]=a[i]);o[s]=l[s]}return n.languages.DFS(n.languages,function(t,n){n===r[e]&&t!=e&&(this[t]=o)}),r[e]=o},DFS:function(e,t,a,r){r=r||{};for(var l in e)e.hasOwnProperty(l)&&(t.call(e,l,e[l],a||l),"Object"!==n.util.type(e[l])||r[n.util.objId(e[l])]?"Array"!==n.util.type(e[l])||r[n.util.objId(e[l])]||(r[n.util.objId(e[l])]=!0,n.languages.DFS(e[l],t,l,r)):(r[n.util.objId(e[l])]=!0,n.languages.DFS(e[l],t,null,r)))}},plugins:{},highlightAll:function(e,t){var a={callback:t,selector:'code[class*="language-"], [class*="language-"] code, code[class*="lang-"], [class*="lang-"] code'};n.hooks.run("before-highlightall",a);for(var r,l=a.elements||document.querySelectorAll(a.selector),i=0;r=l[i++];)n.highlightElement(r,e===!0,a.callback)},highlightElement:function(t,a,r){for(var l,i,o=t;o&&!e.test(o.className);)o=o.parentNode;o&&(l=(o.className.match(e)||[,""])[1],i=n.languages[l]),t.className=t.className.replace(e,"").replace(/\s+/g," ")+" language-"+l,o=t.parentNode,/pre/i.test(o.nodeName)&&(o.className=o.className.replace(e,"").replace(/\s+/g," ")+" language-"+l);var s=t.textContent,u={element:t,language:l,grammar:i,code:s};if(!s||!i)return n.hooks.run("complete",u),void 0;if(n.hooks.run("before-highlight",u),a&&_self.Worker){var c=new Worker(n.filename);c.onmessage=function(e){u.highlightedCode=e.data,n.hooks.run("before-insert",u),u.element.innerHTML=u.highlightedCode,r&&r.call(u.element),n.hooks.run("after-highlight",u),n.hooks.run("complete",u)},c.postMessage(JSON.stringify({language:u.language,code:u.code,immediateClose:!0}))}else u.highlightedCode=n.highlight(u.code,u.grammar,u.language),n.hooks.run("before-insert",u),u.element.innerHTML=u.highlightedCode,r&&r.call(t),n.hooks.run("after-highlight",u),n.hooks.run("complete",u)},highlight:function(e,t,r){var l=n.tokenize(e,t);return a.stringify(n.util.encode(l),r)},tokenize:function(e,t){var a=n.Token,r=[e],l=t.rest;if(l){for(var i in l)t[i]=l[i];delete t.rest}e:for(var i in t)if(t.hasOwnProperty(i)&&t[i]){var o=t[i];o="Array"===n.util.type(o)?o:[o];for(var s=0;s<o.length;++s){var u=o[s],c=u.inside,g=!!u.lookbehind,h=!!u.greedy,f=0,d=u.alias;u=u.pattern||u;for(var p=0;p<r.length;p++){var m=r[p];if(r.length>e.length)break e;if(!(m instanceof a)){u.lastIndex=0;var y=u.exec(m),v=1;if(!y&&h&&p!=r.length-1){var b=r[p+1].matchedStr||r[p+1],k=m+b;if(p<r.length-2&&(k+=r[p+2].matchedStr||r[p+2]),u.lastIndex=0,y=u.exec(k),!y)continue;var w=y.index+(g?y[1].length:0);if(w>=m.length)continue;var _=y.index+y[0].length,P=m.length+b.length;if(v=3,P>=_){if(r[p+1].greedy)continue;v=2,k=k.slice(0,P)}m=k}if(y){g&&(f=y[1].length);var w=y.index+f,y=y[0].slice(f),_=w+y.length,S=m.slice(0,w),O=m.slice(_),j=[p,v];S&&j.push(S);var A=new a(i,c?n.tokenize(y,c):y,d,y,h);j.push(A),O&&j.push(O),Array.prototype.splice.apply(r,j)}}}}}return r},hooks:{all:{},add:function(e,t){var a=n.hooks.all;a[e]=a[e]||[],a[e].push(t)},run:function(e,t){var a=n.hooks.all[e];if(a&&a.length)for(var r,l=0;r=a[l++];)r(t)}}},a=n.Token=function(e,t,n,a,r){this.type=e,this.content=t,this.alias=n,this.matchedStr=a||null,this.greedy=!!r};if(a.stringify=function(e,t,r){if("string"==typeof e)return e;if("Array"===n.util.type(e))return e.map(function(n){return a.stringify(n,t,e)}).join("");var l={type:e.type,content:a.stringify(e.content,t,r),tag:"span",classes:["token",e.type],attributes:{},language:t,parent:r};if("comment"==l.type&&(l.attributes.spellcheck="true"),e.alias){var i="Array"===n.util.type(e.alias)?e.alias:[e.alias];Array.prototype.push.apply(l.classes,i)}n.hooks.run("wrap",l);var o="";for(var s in l.attributes)o+=(o?" ":"")+s+'="'+(l.attributes[s]||"")+'"';return"<"+l.tag+' class="'+l.classes.join(" ")+'" '+o+">"+l.content+"</"+l.tag+">"},!_self.document)return _self.addEventListener?(_self.addEventListener("message",function(e){var t=JSON.parse(e.data),a=t.language,r=t.code,l=t.immediateClose;_self.postMessage(n.highlight(r,n.languages[a],a)),l&&_self.close()},!1),_self.Prism):_self.Prism;var r=document.currentScript||[].slice.call(document.getElementsByTagName("script")).pop();return r&&(n.filename=r.src,document.addEventListener&&!r.hasAttribute("data-manual")&&document.addEventListener("DOMContentLoaded",n.highlightAll)),_self.Prism}();"undefined"!=typeof module&&module.exports&&(module.exports=Prism),"undefined"!=typeof global&&(global.Prism=Prism);
+</script>
+
+
+</body>
+
+</html>
