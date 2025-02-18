@@ -10,11 +10,37 @@
 
 ## Loot + Itemlvl
 
-## Dungeons
+## Dungeon/Raid
 * [The War Within Season 2 Dungeon Rotation](https://www.wowhead.com/news/war-within-season-2-dungeon-rotation-theater-of-pain-and-operation-mechagon-350855)
 
-### Guides
-* [Operation Floodgate](https://www.youtube.com/watch?v=e0u3soAtNJs)
+### Cinderbrew Meadery
+
+### Darkflame Cleft
+
+### The Rookery
+
+### Priory of Sacred Flame
+
+### The MOTHERLODE!!
+* [ULTIMATE Guide to MOTHERLODE M+ | Quazii - EN](https://youtu.be/x8lLZruaoNQ?si=N2KetoUZw3SBK-fz)
+* [MOTHERLODE Mythic+ Guide: Mechanics & Boss Fights | TheLegendBehindTheCow - EN](https://youtu.be/XQKI25SgSFk?si=lJOrHfnWyXMLRggq)
+
+### Operation: Floodgate
+* [Operation Floodgate - EN](https://www.youtube.com/watch?v=e0u3soAtNJs)
+* [Operation Floodgate Mythic+ Guide: Mechanics & Boss Fights | TheLegendBehindTheCow - EN](https://youtu.be/e0u3soAtNJs?si=RYlrXTjQzCp2l4fs)  
+ * [Big M.O.M.M.A. Guide: Operation Floodgate First Boss Mythic+](https://youtu.be/er2tvFxDBKQ?si=PEcFVbILQpei6Ind)
+ * [Keeza Quickfuse & Bront Guide: Operation Floodgate Second Boss Mythic+](https://youtu.be/J2j7dJjNg0Q?si=5nCTeWi51zZtWRdS)
+ * [Swampface Guide: Operation Floodgate Third Boss Mythic+](https://youtu.be/vJgy6HN4dIQ?si=gpHqsfz9kK9NGSHW)
+ * [Geezle Gigazap Guide: Operation Floodgate Last Boss Mythic+](https://youtu.be/8wzVorZhk34?si=rKEF4BzYCzaHPqqt)
+
+### Theater of Pain
+* [ULTIMATE Guide to Theater of Pain M+ | Quazii - EN](https://youtu.be/hIlqp3On2mI?si=kQyeSW55t_f-yF9x)
+* [Theater of Pain Mythic+ Guide: Mechanics & Boss Fights | TheLegendBehindTheCow - EN](https://youtu.be/jYaWS-rp-fg?si=mbY0rf1F90p2wLii)
+ * [The New Kul'tharok Boss Fight Guide in Theater of Pain Mythic+](https://youtu.be/FyVhmWk1uRI?si=gXPqJ-SFKluHHwZ2)
+
+
+### Operation Mechagon: Workshop
+* [ULTIMATE Guide to Mechagon Workshop M+ | Quazii - EN](https://youtu.be/SbPsEWjxR_s?si=fMziNBwsZTCZQER0)
 
 #### Old
 * [Heroic and Mythic Dungeons to Feature Mythic+ Dungeon Rotation in Season 1](https://www.wowhead.com/news/heroic-and-mythic-dungeons-to-feature-mythic-dungeon-rotation-in-season-1-346551)
@@ -36,6 +62,12 @@
 * [Buy 10 Profession Knowledge Points with Kej in The War Within!](https://www.wowhead.com/news/buy-10-profession-knowledge-points-with-kej-in-the-war-within-346116)
 * [Earn 350 Acuity Instantly in The War Within](https://www.wowhead.com/news/earn-350-acuity-instantly-in-the-war-within-crafting-to-order-346136)
 * [Knowledge Point Treasure Locations in The War Within TWW](https://www.wowhead.com/guide/the-war-within/professions/knowledge-point-treasure-locations)
+
+### Skinning
+Superb Elusive Creatures, requiring 40/40 in Trained Tracker Trained Tracker. Summoned by placing a Supreme Beast Lure   
+
+* Slatefang, located in The Ringing Deeps: ```/way #2214 62.09 50.62 The Rumbling Wastes`` → Only source of Superb Beast Fang
+
 
 ### Darkmoon Faire  
 * **Additional items required:**   
@@ -139,19 +171,6 @@ TWW:
 
 ### Rare spawn
 * [Beledar - Mount](https://wago.io/xCLBExUB0)
-
-## Dungeon/Raid
-
-### City of Threads
-
-### Mists of Tirna Scithe
-* [https://wago.io/hVLym_eLv](https://wago.io/5X1DzV9fg)
-* [https://wago.io/5X1DzV9fg](https://wago.io/5X1DzV9fg)
-* [https://wago.io/04YHZsxIO](https://wago.io/04YHZsxIO)
-* [https://wago.io/tw_6jLFrB](https://wago.io/tw_6jLFrB)
-
-### Raid
-* [https://www.youtube.com/watch?v=zoVh1AF35AI](https://www.youtube.com/watch?v=zoVh1AF35AI)
 
 ## Tipps
 * [Floating Combat Text](https://eu.battle.net/support/de/article/46205)
