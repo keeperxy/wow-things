@@ -128,6 +128,8 @@ TWW:
 
 #### Leder
 <img src="https://wow.vi6.org/pics/gloom_citin.jpeg" style="width:100%;">
+<img src="https://wow.vi6.org/pics/leather.jpeg" style="width:100%;">
+
 
 ## Race
 * [Earthen Allied Race](https://www.wowhead.com/guide/allied-race/earthen)
