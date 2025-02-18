@@ -3,6 +3,9 @@
 * [Professions Updates in Patch 11.1 - New Recipes, Knowledge Point Resets](https://www.wowhead.com/news/professions-updates-in-patch-11-1-new-recipes-knowledge-point-resets-358476#new-profession-recipes)
 * [The War Within Patch 11.1: Undermine(d) Overview](https://www.wowhead.com/guide/the-war-within/patch-11-1-undermined-overview)   
 * [Season 2 Mythic+ Guide - The War Within](https://www.wowhead.com/guide/mythic-plus-dungeons/the-war-within-season-2/overview)
+* [Season 2 - Dispells etc.](https://www.youtube.com/watch?v=xhXWGaV3l5c)
+* [Casting Mistweaver Guide - The War Within: Season 2](https://www.youtube.com/watch?v=q_MnU5BC3Vk)
+* [11.1 Overview](https://www.wowhead.com/news/undermine-d-official-overview-the-war-within-season-2-liberation-of-undermine-371721)
 
 
 ## Loot + Itemlvl
@@ -93,7 +96,7 @@ TWW:
 ### Farmspots
 
 #### Leder
-<img src="https://wow.vi6.org/pics/gloom_citin.jpeg" style="width:125%;">
+<img src="https://wow.vi6.org/pics/gloom_citin.jpeg" style="width:100%;">
 
 ## Race
 * [Earthen Allied Race](https://www.wowhead.com/guide/allied-race/earthen)
@@ -106,6 +109,7 @@ TWW:
 
 ## Pets
 * [Free Pet with Discord](https://www.wowhead.com/news/free-parrlok-pet-for-streaming-world-of-warcraft-discord-cross-promotion-346080)
+* [Inky Snapdragon Treat - Final Prismatic Snapdragon Color Variation Found](https://www.wowhead.com/news/inky-snapdragon-treat-final-prismatic-snapdragon-color-variation-found-365512)
 
 ## Mounts
 * [How to Farm for the Beledar's Spawn Mount](https://www.wowhead.com/news/how-to-farm-for-the-beledars-spawn-mount-in-the-war-within-346104)
@@ -156,7 +160,7 @@ TWW:
 * Algari Mana Oil on both Weapons
 
 ```
-#showtooltip
-/use Algari Mana Oil
-/use [btn:1]16;[btn:2]17
+#showtooltip   
+/use Algari Mana Oil   
+/use [btn:1]16;[btn:2]17   
 ```
