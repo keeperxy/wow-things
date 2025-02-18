@@ -6,8 +6,6 @@
 * [Season 2 - Dispells etc.](https://www.youtube.com/watch?v=xhXWGaV3l5c)
 * [Casting Mistweaver Guide - The War Within: Season 2](https://www.youtube.com/watch?v=q_MnU5BC3Vk)
 * [11.1 Overview](https://www.wowhead.com/news/undermine-d-official-overview-the-war-within-season-2-liberation-of-undermine-371721)
-* hier n toller text
-
 
 ## Loot + Itemlvl
 
