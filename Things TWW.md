@@ -6,6 +6,7 @@
 * [Season 2 - Dispells etc.](https://www.youtube.com/watch?v=xhXWGaV3l5c)
 * [Casting Mistweaver Guide - The War Within: Season 2](https://www.youtube.com/watch?v=q_MnU5BC3Vk)
 * [11.1 Overview](https://www.wowhead.com/news/undermine-d-official-overview-the-war-within-season-2-liberation-of-undermine-371721)
+* hier n toller text
 
 
 ## Loot + Itemlvl
@@ -56,7 +57,7 @@
 * [Fastest Ways to Earn Titan Disc Fragments for Spark Fragment](https://www.wowhead.com/news/fastest-ways-to-earn-titan-disc-fragments-for-spark-fragment-346883)
 * [Where to Turn In All Omni-Tokens in The War Within Season 1](https://www.wowhead.com/news/where-to-turn-in-all-omni-tokens-in-the-war-within-season-1-346857)
 
-## Professions
+## Professions 
 * [Fishing Profession Overview for The War Within](https://www.wowhead.com/guide/the-war-within/professions/fishing-overview)
 * [The Hallowfall Fishing Derby in The War Within](https://www.wowhead.com/guide/the-war-within/professions/the-hallowfall-fishing-derby)
 * [Buy 10 Profession Knowledge Points with Kej in The War Within!](https://www.wowhead.com/news/buy-10-profession-knowledge-points-with-kej-in-the-war-within-346116)
