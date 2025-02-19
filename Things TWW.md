@@ -25,7 +25,7 @@
 * [MOTHERLODE Mythic+ Guide: Mechanics & Boss Fights | TheLegendBehindTheCow - EN](https://youtu.be/XQKI25SgSFk?si=lJOrHfnWyXMLRggq)
    
 ### Operation: Floodgate
-* [Operation Floodgate - EN](https://www.youtube.com/watch?v=e0u3soAtNJs)
+* [ULTIMATE Guide to Operation Floodgate M+ | Quazii - EN](https://youtu.be/GXf9FOBWld4?si=Gc97Guu27em2rCF1)
 * [Operation Floodgate Mythic+ Guide: Mechanics & Boss Fights | TheLegendBehindTheCow - EN](https://youtu.be/e0u3soAtNJs?si=RYlrXTjQzCp2l4fs)  
  * [Big M.O.M.M.A. Guide: Operation Floodgate First Boss Mythic+](https://youtu.be/er2tvFxDBKQ?si=PEcFVbILQpei6Ind)
  * [Keeza Quickfuse & Bront Guide: Operation Floodgate Second Boss Mythic+](https://youtu.be/J2j7dJjNg0Q?si=5nCTeWi51zZtWRdS)
@@ -57,6 +57,7 @@
 
 ## Professions 
 * [Fishing Profession Overview for The War Within](https://www.wowhead.com/guide/the-war-within/professions/fishing-overview)
+ * Nadormu kann die tollsten Angeln, die wir uns vorstellen können herstellen!
 * [The Hallowfall Fishing Derby in The War Within](https://www.wowhead.com/guide/the-war-within/professions/the-hallowfall-fishing-derby)
 * [Buy 10 Profession Knowledge Points with Kej in The War Within!](https://www.wowhead.com/news/buy-10-profession-knowledge-points-with-kej-in-the-war-within-346116)
 * [Earn 350 Acuity Instantly in The War Within](https://www.wowhead.com/news/earn-350-acuity-instantly-in-the-war-within-crafting-to-order-346136)
