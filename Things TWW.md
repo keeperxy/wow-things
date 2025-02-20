@@ -90,40 +90,6 @@ Superb Elusive Creatures, requiring 40/40 in Trained Tracker Trained Tracker. Su
  * First Aid   
  * Fishing   
 
-
-## Brewfest/Braufest
-
-DF:
-
-```
-/way Waking Shores 58.3 67.6
-/way Waking Shores 76.4 35.5
-/way Waking Shores 47.7 83.3
-/way The Azure Span:Dragon Isles 46.9 40.2
-/way The Azure Span:Dragon Isles 12.4 49.3
-/way The Azure Span:Dragon Isles 62.8 57.8
-/way Ohn'ahran Plains 28.6 60.5
-/way Ohn'ahran Plains 59.8 38.8
-/way Ohn'ahran Plains 85.8 35.4
-/way Thaldraszus 52.2 81.5
-/way Thaldraszus 50.1 42.7
-```
-
-TWW:
-
-```
-/way Dornogal 44.11 46.00 Bar Tab: Dornogal   
-/way Isle of Dorn 41.85 74.25 Bar Tab: Freywold Village   
-/way The Ringing Deeps 48.29 32.18 Bar Tab: Gundargaz
-/way The Ringing Deeps 63.35 78.82 Bar Tab: Opportunity Point
-/way Hallowfall 49.23 39.53 Bar Tab: Fjord Tavern
-/way Hallowfall 42.76 55.80 Bar Tab: Empire’s Edge Tavern
-/way City of Threads 57.76 39.87 Bar Tab :Lower: The Cobwebs
-/way City of Threads 49.84 21.52 Bar Tab: City of Threads, The Skittering Lounge
-/way Azj-Kahet 77.81 62.75 Bar Tab: Azj-Kahet: Rock Bottom Inn
-/way Azj-Kahet 56.72 38.71 Bar Tab: Azj-Kahet: The Trap Door
-```
-
 --
 
 ### Farmspots
@@ -134,7 +100,6 @@ TWW:
 
 
 ## Race
-* [Earthen Allied Race](https://www.wowhead.com/guide/allied-race/earthen)
 
 ## Rares and Loot
 * [Isle of Dorn](https://www.wowhead.com/guide/the-war-within/isle-of-dorn-rares-and-treasures)
@@ -143,14 +108,9 @@ TWW:
 * [Azj-Kahet](https://www.wowhead.com/guide/the-war-within/azj-kahet-rares-and-treasures)
 
 ## Pets
-* [Free Pet with Discord](https://www.wowhead.com/news/free-parrlok-pet-for-streaming-world-of-warcraft-discord-cross-promotion-346080)
 * [Inky Snapdragon Treat - Final Prismatic Snapdragon Color Variation Found](https://www.wowhead.com/news/inky-snapdragon-treat-final-prismatic-snapdragon-color-variation-found-365512)
 
 ## Mounts
-* [How to Farm for the Beledar's Spawn Mount](https://www.wowhead.com/news/how-to-farm-for-the-beledars-spawn-mount-in-the-war-within-346104)
-```
-/run local a,b,c=258575,1000,{0,68821,45323,4740,6788,43066,25944,17293,18770,16166,9222,33660,32121,5799,18898,8889,14311,52915,40356,6758}for d=1,#c do a=a+c[d]TomTom:AddWaypoint(2215,floor(a/b)/b,a%b/b,{title="Beledar Spawn",from="Wowhead Script"})end
-```
 * [Using Follower Dungeons to Solo Farm Siesbarg Mount Materials](https://www.wowhead.com/news/using-follower-dungeons-to-solo-farm-siesbarg-mount-materials-346232)
 
 ## Addons
@@ -173,7 +133,6 @@ TWW:
 * [Additional Options for Tracking Weekly Profession Knowledge Points](https://www.wowhead.com/news/additional-options-for-tracking-weekly-profession-knowledge-points-346314)
 
 ### Rare spawn
-* [Beledar - Mount](https://wago.io/xCLBExUB0)
 
 ## Tipps
 * [Floating Combat Text](https://eu.battle.net/support/de/article/46205)
