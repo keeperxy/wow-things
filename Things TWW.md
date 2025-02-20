@@ -15,6 +15,7 @@
 ### Cinderbrew Meadery
 
 ### Darkflame Cleft
+* [ULTIMATE Guide to Darkflame Cleft M+ | Quazii - EN](https://youtu.be/CsdRUrXNBh0?si=mhU6va5JZ1NXKeXT)
 
 ### The Rookery
 
