@@ -4,8 +4,18 @@
 * [The War Within Patch 11.1: Undermine(d) Overview](https://www.wowhead.com/guide/the-war-within/patch-11-1-undermined-overview)   
 * [Season 2 Mythic+ Guide - The War Within](https://www.wowhead.com/guide/mythic-plus-dungeons/the-war-within-season-2/overview)
 * [Season 2 - Dispells etc.](https://www.youtube.com/watch?v=xhXWGaV3l5c)
-* [Casting Mistweaver Guide - The War Within: Season 2](https://www.youtube.com/watch?v=q_MnU5BC3Vk)
 * [11.1 Overview](https://www.wowhead.com/news/undermine-d-official-overview-the-war-within-season-2-liberation-of-undermine-371721)
+* [Which Cartel Should You Pick First?](https://youtu.be/YS7IVgVqW84?si=HpxSyn13_YNBG0sn)
+* [Every Mount Coming in Patch 11.1 and How to Obtain Them - WoW Mount Guide TWW Undermine](https://youtu.be/DQBBCwDOuUo?si=VzV9Bh6WAg6jn1Gl)
+
+## 11.1 Guides
+### Monk
+* [Casting Mistweaver Guide - The War Within: Season 2 - LunoLarks - EN](https://www.youtube.com/watch?v=q_MnU5BC3Vk)
+* [	11.1 Mistweaver Guide for M+ | War Within Season 2 (Talents, Rotation, BOTH Hero Talents) - LBNinja7 - EN](https://youtu.be/6pxxFBqU8no?si=HyMC--0rp4xv9O57)
+* [11.1 Mistweaver Mythic+ Guide - Megasett - EN](https://youtu.be/Ct5S3M7Uyvg?si=pZYsXASBlKjmNl-K)
+
+#### Brewmaster
+* [Sha_IRL](https://www.youtube.com/@Sha_IRL/videos)
 
 ## Loot + Itemlvl
 
@@ -18,14 +28,16 @@
 * [ULTIMATE Guide to Darkflame Cleft M+ | Quazii - EN](https://youtu.be/CsdRUrXNBh0?si=mhU6va5JZ1NXKeXT)
 
 ### The Rookery
+* [ULTIMATE Guide to The Rookery M+ | Quazii - EN](https://youtu.be/9uul5NpsfX8?si=2k2W7mpZWluLatJa)
 
 ### Priory of Sacred Flame
+* [ULTIMATE Guide to Priory Of The Sacred Flame M+ | Quazii - EN](https://youtu.be/BXiFDGRS1Og?si=gMt2Ntg-8hMOhIRS)
 
 ### The MOTHERLODE
 * [ULTIMATE Guide to MOTHERLODE M+ | Quazii - EN](https://youtu.be/x8lLZruaoNQ?si=N2KetoUZw3SBK-fz)
 * [MOTHERLODE Mythic+ Guide: Mechanics & Boss Fights | TheLegendBehindTheCow - EN](https://youtu.be/XQKI25SgSFk?si=lJOrHfnWyXMLRggq)
-   
-### Operation: Floodgate
+
+### Floodgate
 * [ULTIMATE Guide to Operation Floodgate M+ | Quazii - EN](https://youtu.be/GXf9FOBWld4?si=Gc97Guu27em2rCF1)
 * [Operation Floodgate Mythic+ Guide: Mechanics & Boss Fights | TheLegendBehindTheCow - EN](https://youtu.be/e0u3soAtNJs?si=RYlrXTjQzCp2l4fs)  
  * [Big M.O.M.M.A. Guide: Operation Floodgate First Boss Mythic+](https://youtu.be/er2tvFxDBKQ?si=PEcFVbILQpei6Ind)
@@ -55,6 +67,9 @@
 * [How to Obtain a Guaranteed ilvl 571 Customizable Trinket - The War Within Early Access](https://www.wowhead.com/news/how-to-obtain-a-guaranteed-ilvl571-customizable-trinket-the-war-within-early-346100)
 * [Fastest Ways to Earn Titan Disc Fragments for Spark Fragment](https://www.wowhead.com/news/fastest-ways-to-earn-titan-disc-fragments-for-spark-fragment-346883)
 * [Where to Turn In All Omni-Tokens in The War Within Season 1](https://www.wowhead.com/news/where-to-turn-in-all-omni-tokens-in-the-war-within-season-1-346857)
+
+### Magic Tower
+* [Prepare all of your Characters for Magetower | Step by Step | Guide | The War Within 11.0.7](https://youtu.be/iD8cwCUtESU?si=DTMbuxXboPon5F1k)
 
 ## Professions 
 * [Fishing Profession Overview for The War Within](https://www.wowhead.com/guide/the-war-within/professions/fishing-overview)
