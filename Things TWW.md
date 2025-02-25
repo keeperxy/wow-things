@@ -7,38 +7,64 @@
 * [11.1 Overview](https://www.wowhead.com/news/undermine-d-official-overview-the-war-within-season-2-liberation-of-undermine-371721)
 * [Which Cartel Should You Pick First?](https://youtu.be/YS7IVgVqW84?si=HpxSyn13_YNBG0sn)
 * [Every Mount Coming in Patch 11.1 and How to Obtain Them - WoW Mount Guide TWW Undermine](https://youtu.be/DQBBCwDOuUo?si=VzV9Bh6WAg6jn1Gl)
+* [Season 2 Delves, How It All Works - The War Within 11.1 Undermined](https://youtu.be/p5Cmik-zdoo?si=WsFzysQUu7x_1E4r)
 
 ## 11.1 Guides
 ### Monk
 * [Casting Mistweaver Guide - The War Within: Season 2 - LunoLarks - EN](https://www.youtube.com/watch?v=q_MnU5BC3Vk)
 * [	11.1 Mistweaver Guide for M+ | War Within Season 2 (Talents, Rotation, BOTH Hero Talents) - LBNinja7 - EN](https://youtu.be/6pxxFBqU8no?si=HyMC--0rp4xv9O57)
+* [11.1 Mistweaver Guide for RAID | War Within Season 2 (Talents, Rotation, Yu'lon) - LBNinja7 - EN](https://youtu.be/1F_-IJftlJ0?si=IZPl-ELOqha1e_KC)
 * [11.1 Mistweaver Mythic+ Guide - Megasett - EN](https://youtu.be/Ct5S3M7Uyvg?si=pZYsXASBlKjmNl-K)
+* [11.1 Mistweaver Raid Guide - Megasett - EN](https://youtu.be/VzcfVeHfx3k?si=NuNi_NsZ2A_pDlK5)
 
 #### Brewmaster
 * [Sha_IRL](https://www.youtube.com/@Sha_IRL/videos)
 
 ## Loot + Itemlvl
+<img src="https://loot.ghostopera.org/assets/wow-season-2.png?1740410702" style="width:100%;">
+
+
+### Pets
+* [How To Get Gorillion In Undermine? Gorillion Full Pet Guide! WoW TWW Patch 11.1](https://youtu.be/ewAiH0uNSog?si=jJAhLMzP3oCcL9hl)
+
+```
+/way #2346 23.81 45.39 Fork   
+/way #2346 71.46 85.88 Grease    
+/way #2346 75.14 22.95 Batteries   
+/way #2346 56.66 55.47 Engine   
+/way #2346 34.31 82.86 Chasis    
+```
 
 ## Dungeon/Raid
 * [The War Within Season 2 Dungeon Rotation](https://www.wowhead.com/news/war-within-season-2-dungeon-rotation-theater-of-pain-and-operation-mechagon-350855)
 
 ### Cinderbrew Meadery
+* [ULTIMATE Guide to Cinderbrew Meadery M+ | Quazii - EN](https://youtu.be/COeYMi3FqpE?si=_C2VSIdJPoo0_y-k)
+* [Quick Boss Guides for Cinderbrew Meadery | Season 2](https://youtu.be/Z9E71eswp04?si=sVpI1BMwyKDtZBEJ)
 
 ### Darkflame Cleft
 * [ULTIMATE Guide to Darkflame Cleft M+ | Quazii - EN](https://youtu.be/CsdRUrXNBh0?si=mhU6va5JZ1NXKeXT)
+* [Quick Boss Guides for Darkflame Cleft | Season 2](https://youtu.be/V9LqLLa1t_U?si=GcfamSBJ-7ZKVzps) 
+* [DARKFLAME CLEFT Mythic+ Guide: Mechanics & Boss Fights | TheLegendBehindTheCow - EN](https://youtu.be/2ZBzRDhQvEI?si=4xAjg_WgHVsWfLAz)
+ * [BLAZIKON Boss Fight Guide in Darkflame Cleft Mythic+](https://youtu.be/6jMTK0nYfVc?si=21S68F0yBBkI6Vrg) 
 
 ### The Rookery
 * [ULTIMATE Guide to The Rookery M+ | Quazii - EN](https://youtu.be/9uul5NpsfX8?si=2k2W7mpZWluLatJa)
+* [ROOKERY Mythic+ Guide: Mechanics & Boss Fights | TheLegendBehindTheCow - EN](https://youtu.be/8_pf8ybV7Dw?si=maVDmQhgzoWaoKO7)
+* [Quick Boss Guides for The Rookery | Season 2](https://youtu.be/Za9M4FMiEMc?si=V5hT92cafWiDvpKW)
 
 ### Priory of Sacred Flame
 * [ULTIMATE Guide to Priory Of The Sacred Flame M+ | Quazii - EN](https://youtu.be/BXiFDGRS1Og?si=gMt2Ntg-8hMOhIRS)
+* [Quick Boss Guides for Priory of the Sacred Flame | Season 2](https://youtu.be/NlFasgSWCdQ?si=bZtYsaVq_qKxcUoP)
 
 ### The MOTHERLODE
 * [ULTIMATE Guide to MOTHERLODE M+ | Quazii - EN](https://youtu.be/x8lLZruaoNQ?si=N2KetoUZw3SBK-fz)
+* [Quick Boss Guides for The Motherlode!! | Season 2](https://youtu.be/Xg14Su4XUgY?si=xmG0HMJe9nELLLGW)
 * [MOTHERLODE Mythic+ Guide: Mechanics & Boss Fights | TheLegendBehindTheCow - EN](https://youtu.be/XQKI25SgSFk?si=lJOrHfnWyXMLRggq)
 
 ### Floodgate
 * [ULTIMATE Guide to Operation Floodgate M+ | Quazii - EN](https://youtu.be/GXf9FOBWld4?si=Gc97Guu27em2rCF1)
+* [Quick Boss Guides for Operation: Floodgate | Season 2](https://youtu.be/J_PoAQO-gWE?si=BACi6Z-bqytnbmRA)
 * [Operation Floodgate Mythic+ Guide: Mechanics & Boss Fights | TheLegendBehindTheCow - EN](https://youtu.be/e0u3soAtNJs?si=RYlrXTjQzCp2l4fs)  
  * [Big M.O.M.M.A. Guide: Operation Floodgate First Boss Mythic+](https://youtu.be/er2tvFxDBKQ?si=PEcFVbILQpei6Ind)
  * [Keeza Quickfuse & Bront Guide: Operation Floodgate Second Boss Mythic+](https://youtu.be/J2j7dJjNg0Q?si=5nCTeWi51zZtWRdS)
@@ -47,12 +73,15 @@
 
 ### Theater of Pain
 * [ULTIMATE Guide to Theater of Pain M+ | Quazii - EN](https://youtu.be/hIlqp3On2mI?si=kQyeSW55t_f-yF9x)
+* [Quick Boss Guides for Theater of Pain | Season 2](https://youtu.be/H0yR3-G7OCc?si=sqGXs1-MOjx8mzuI)
 * [Theater of Pain Mythic+ Guide: Mechanics & Boss Fights | TheLegendBehindTheCow - EN](https://youtu.be/jYaWS-rp-fg?si=mbY0rf1F90p2wLii)
  * [The New Kul'tharok Boss Fight Guide in Theater of Pain Mythic+](https://youtu.be/FyVhmWk1uRI?si=gXPqJ-SFKluHHwZ2)
 
 
 ### Operation Mechagon: Workshop
 * [ULTIMATE Guide to Mechagon Workshop M+ | Quazii - EN](https://youtu.be/SbPsEWjxR_s?si=fMziNBwsZTCZQER0)
+* [Quick Boss Guides for Mechagon Workshop | Season 2](https://youtu.be/009S7AR9Mnc?si=eMmYaD1BzdnAC7Gs)
+* [New Mechagon Workshop Mythic+ Guide: Mechanics & Boss Fights | TheLegendBehindTheCow - EN](https://youtu.be/s7VzKV3rlIQ?si=FRpZCABZizURVH9J)
 
 #### Old
 * [Heroic and Mythic Dungeons to Feature Mythic+ Dungeon Rotation in Season 1](https://www.wowhead.com/news/heroic-and-mythic-dungeons-to-feature-mythic-dungeon-rotation-in-season-1-346551)
