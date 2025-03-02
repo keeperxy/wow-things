@@ -25,9 +25,9 @@
 <div style="page-break-after: always;"></div>
 
 ## Cauldron of Carnage  
-**HT:**  Pull
-**Enrage:**  -
-**Positionierung:** Raid in 2 Gruppen aufteilen, Bosse 60 Meter voneinander tanken
+**HT:**  Pull  
+**Enrage:**  -  
+**Positionierung:** Raid in 2 Gruppen aufteilen, Bosse 60 Meter voneinander tanken  
 **Besonderheiten:** müssen gleichzeitig sterben
 
 * Tanks:  
@@ -137,7 +137,7 @@ Colossal Clash  (Kolossaler Zusammenstoß)
 
 **HT:** Pull  
 **Enrage:** -  
-**Positionierung:** random, Ranges mittig, bei Pyro Party Pack sollte der Tank ans andere Ende mit der Bombe rennen/springen/gezogen werden
+**Positionierung:** random, Ranges mittig, bei Pyro Party Pack sollte der Tank ans andere Ende mit der Bombe rennen/springen/gezogen werden  
 **Besonderheiten:** -  
 
 * Tanks:
