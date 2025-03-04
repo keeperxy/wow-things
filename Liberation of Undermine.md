@@ -212,14 +212,14 @@ Colossal Clash  (Kolossaler Zusammenstoß)
 
 ##Mug'Zee
 
-**HT:** P2
-**Enrage:**  100 Energie in P2
-**Positionierung:**  Links anfangen (blaue Seite)
-**Besonderheiten:**  
+**HT:** P2  
+**Enrage:**  100 Energie in P2  
+**Positionierung:**  Links anfangen (blaue Seite)  
+**Besonderheiten:**  Eine Menge
 
 * Tanks: Double Whammy - Tank muss dazwischen stehen
 * Healer:  On Pull + bei Seitenwechsel - Uncontrolled Destruction
-* DDss:  
+* DDs: - 
 
 ####Allgemein
 * Seitenwechsel ca. jede Minute
@@ -246,6 +246,8 @@ Colossal Clash  (Kolossaler Zusammenstoß)
  * **Heroic:** Frostshatter Spear (Frostsprengerspeer) verfolgen den Spieler, diese müssen durch die Wand fliegen, damit sie keinen Schaden machen ( 
 * Stormfury Finger Gun (Sturmzornfingerpistole): Spieler wird anvisiert und in einem Kegel erfolgt Schaden. Der anvisierte Spieler muss stehen bleiben, alle anderen raus laufen
 * Molten Gold Knuckles (Flüssiggoldschlagring): Tank wird davon getroffen, zurück geschleudert. Er muss den Debuff "ablaufen" und hinterlässt hier eine goldene Spur.
+* bei 95 Energie alle auf die blaue Seite wechseln
+
 
 ####Intermission
 * 40% HP startet Intermission
