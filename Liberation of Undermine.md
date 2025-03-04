@@ -175,33 +175,85 @@ Colossal Clash  (Kolossaler Zusammenstoß)
 ##One-Armed Bandit
 
 **HT:** P2  
-**Enrage:** -   
-**Positionierung:** Mittig  
+**Enrage:** Indirekt - wenn 2x das gleiche eingeworfen wird, mact er 500% mehr Schaden
+**Positionierung:** am Rand für "The Big Hit"  
 **Besonderheiten:**
 
-* Tanks:  
-* Healer:  
-* DDss:  
+* Tanks: The Big Hit (Der Volltreffer) - CD ziehen, danach Tank swap - Pylon anklicken um die nächsten 2 Shocking Fields (Schockfelder) zu entfernen
+* Healer:  Dispells nach Ansage, viel Heal Absorb
+* DDss:  Fernkämpfer sollen die Münzen auf den Boss zurück rollen
 
  
 ####P1
-
+* Bei 100% Eenergie "Spin to win" → 3 Adds, die getötet werden müssen, diese lassen 3 Tokens fallen, hier muss kombiniert werden (in kompletter P1 darf nur jeweils 1x das gleiche sein, sonst Enrage)
+* Es gibt Flamme, Schock, Bombe oder Münze
+* Mögliche Kombinationen - Schock Kombos sollten immer als letztes durchgeführt werden:
+ * Flamme + Münze → AoE Schaden auf den Raid
+ * Münze + Bombe →  5 kleine Adds, die Spieler fixieren, kein CC möglich, müssen sterben, wenn sie Spieler erreichen AoE DMG auf den Raid
+ * Flamme + Bombe → 3 große Adds, die Spieler fixieren, CC möglich, wenn sie Sterben DMG im Radius von 15 Metern, Nahkämpfer also raus ;)
+ * Schock + Flamme → Feuer Tornados, ausweichen
+ * Schock + Bombe → Adds spawnen, die Spieler verfolgen, dürfen niemand berühren, sonst Raid DMG
+ * Münze + Schock → Pylon der Spieler zu sich zieht
+ * !!! Pylons auf keinen Fall anklicken → Nur Tanks !!!
+* Withering Flames (Siechflammen): bei Dispell  erzeugt man Feuerwellen - Ansagen wer dispelled werden soll
+* Pay-Line (Gewinnlinie): 2 Münzen rollen durch den Raum. Zurück zum Boss schießen für erhöhten Schaden. Wenn man in der nähe steht bekommt man DMG + Heal Boost, sollten Fernkämpfer machen
+* Foul Exhaust (Widerwärtiger Ausstoß): AoE DMG + Heal Absorb
+* The Big Hit (Der Volltreffer): Hinterlässt dass Shocking Field (Schockfeld), Tank swap danach
 
 ####P2
+* 1 Minute 40 Sekunden → Enrage
+* Pay-Line wird ersetzt durch:
+ * Linked Machines (Verbundene Maschinen): Strahl zwischen JEDEM Pylon und Boss - nicht drin stehen, 1-Shot
+ * Hot Hot Heat (Heiß, heißer, am heißesten): 2 Spieler werden zum Ziel von einem Feuer Strahl (nicht bewegen, alle anderen müssen ausweichen)
+ * Scattered Payout (Verstreute Auszahlung): extra AoE DMG auf den Raid
+ * Explosive Jackpot (Explosiver Volltreffer): Tötet den Raid
 
 <div style="page-break-after: always;"></div>
 
 ##Mug'Zee
 
-**HT:**  
-**Enrage:**  
-**Positionierung:**  
+**HT:** P2
+**Enrage:**  100 Energie in P2
+**Positionierung:**  Links anfangen (blaue Seite)
 **Besonderheiten:**  
 
-* Tanks:  
-* Healer:  
+* Tanks: Double Whammy - Tank muss dazwischen stehen
+* Healer:  On Pull + bei Seitenwechsel - Uncontrolled Destruction
 * DDss:  
 
+####Allgemein
+* Seitenwechsel ca. jede Minute
+* kein Seitenwechsel bevor nicht der 2 Minuten DoT abgelaufen ist
+* Kein Swap bevor der Boss 100 Energie hat → Wipe!
+
+####P1 blaue Seite
+* Mk Il Electro Shocker: 2 Mob, müssen getötet werden. Boss auf 1 ziehen, Ranges töten das andere. Bei 80% leben 12 Sekunden doppelt Schaden
+* Unstable Crawler Mines: 
+ * Visieren Spieler an, sind nicht zerstörbar über Schaden. Müssen berührt werden und explodieren dann, hinterlassen Debuff + Heal Absorb (daher nacheinander)
+ * **Heroic:** Man erhält einen Debuff, wenn man die Mine aktiviert hat, damit kann man keine weitere aktivieren
+ * **Heroic:** Sobald die Minen explodieren gibt es Soak-Flächen, diese MÜSSEN gesoaked werden 
+* Goblin-Guided Rocket: halber Raid (mindestens 5 Spieler) soaked diese Fläche (am Rand ablegen), danach Add töten
+ * **Heroic:** Man kann keine 2 Flächen hintereinander soaken 
+* Spray and Pray: Spieler wird anvisiert, Schaden in einem Kegel, alle anderen rauslaufen, KEINE Mine treffen
+* Double Whammy: Spieler wird anvisiert mit roter Linie, Tank muss dazwischen stehen, danach Kreis um den ursprünglichen Spieler, der explodiert. KEINE Mine treffen
+* bei 95 Energie alle auf die rote Seite wechseln
+
+####P1 rote Seite
+* Earthshaker Gaol (Gefängnis des Erderschütterers):
+ * Kreis um 2 Spieler, die nicht überlappen sollen (Boss darf NICHT darin sein)
+ * jeweils 5 Leute (kein Tank, 1 Heal) gehen mit in einen Kreis, danach spawnen Wände um den Kreis und 1 Add darin. Add muss getötet werden (Frontal ausweichen), Pay Respects muss unterbrochen werden
+* Währenddessen, bekommen Leute ausserhalb der Wände Frostshatter Boots (Frostsprengerstiefel), nicht überlappen
+ * **Heroic:** Frostshatter Spear (Frostsprengerspeer) verfolgen den Spieler, diese müssen durch die Wand fliegen, damit sie keinen Schaden machen ( 
+* Stormfury Finger Gun (Sturmzornfingerpistole): Spieler wird anvisiert und in einem Kegel erfolgt Schaden. Der anvisierte Spieler muss stehen bleiben, alle anderen raus laufen
+* Molten Gold Knuckles (Flüssiggoldschlagring): Tank wird davon getroffen, zurück geschleudert. Er muss den Debuff "ablaufen" und hinterlässt hier eine goldene Spur.
+
+####Intermission
+* 40% HP startet Intermission
+* Random Spieler wird angestürmt (Raid sollte dann am Boss stehen, da es so weiter geht) und dreht sich, Raid muss mit laufen
+
+####P2
+* Alle Fähigkeiten aus P1 (blau + rot)
+* Enrage bei 100% Energie
 
 <div style="page-break-after: always;"></div>
 
