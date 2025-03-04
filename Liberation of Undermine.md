@@ -175,7 +175,7 @@ Colossal Clash  (Kolossaler Zusammenstoß)
 ##One-Armed Bandit
 
 **HT:** P2  
-**Enrage:** Indirekt - wenn 2x das gleiche eingeworfen wird, mact er 500% mehr Schaden
+**Enrage:** Indirekt - wenn 2x das gleiche eingeworfen wird, mact er 500% mehr Schaden  
 **Positionierung:** am Rand für "The Big Hit"  
 **Besonderheiten:**
 
@@ -185,7 +185,7 @@ Colossal Clash  (Kolossaler Zusammenstoß)
 
  
 ####P1
-* Bei 100% Eenergie "Spin to win" → 3 Adds, die getötet werden müssen, diese lassen 3 Tokens fallen, hier muss kombiniert werden (in kompletter P1 darf nur jeweils 1x das gleiche sein, sonst Enrage)
+* Bei 100% Energie "Spin to win" → 3 Adds, die getötet werden müssen, diese lassen 3 Tokens fallen, hier muss kombiniert werden (in kompletter P1 darf nur jeweils 1x das gleiche sein, sonst Enrage)
 * Es gibt Flamme, Schock, Bombe oder Münze
 * Mögliche Kombinationen - Schock Kombos sollten immer als letztes durchgeführt werden:
  * Flamme + Münze → AoE Schaden auf den Raid
