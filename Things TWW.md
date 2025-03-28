@@ -38,6 +38,10 @@
 ## Dungeon/Raid
 * [The War Within Season 2 Dungeon Rotation](https://www.wowhead.com/news/war-within-season-2-dungeon-rotation-theater-of-pain-and-operation-mechagon-350855)
 
+###Allgemeine Tips
+* [#1](https://youtu.be/eoX0EFFupgM?si=KC1oimagPILB8EVo)
+* [#2](https://youtu.be/cI8QFcjTUp4?si=GAeFS87GxJQbEy0L)
+
 ### Cinderbrew Meadery
 * [ULTIMATE Guide to Cinderbrew Meadery M+ | Quazii - EN](https://youtu.be/COeYMi3FqpE?si=_C2VSIdJPoo0_y-k)
 * [Quick Boss Guides for Cinderbrew Meadery | Season 2](https://youtu.be/Z9E71eswp04?si=sVpI1BMwyKDtZBEJ)
@@ -60,7 +64,10 @@
 ### The MOTHERLODE
 * [ULTIMATE Guide to MOTHERLODE M+ | Quazii - EN](https://youtu.be/x8lLZruaoNQ?si=N2KetoUZw3SBK-fz)
 * [Quick Boss Guides for The Motherlode!! | Season 2](https://youtu.be/Xg14Su4XUgY?si=xmG0HMJe9nELLLGW)
-* [MOTHERLODE Mythic+ Guide: Mechanics & Boss Fights | TheLegendBehindTheCow - EN](https://youtu.be/XQKI25SgSFk?si=lJOrHfnWyXMLRggq)
+* [MOTHERLODE Mythic+ Guide: Mechanics & Boss Fights | TheLegendBehindTheCow - EN](https://youtu.be/XQKI25SgSFk?si=lJOrHfnWyXMLRggq)   
+
+####Tips
+* [Things](https://youtube.com/shorts/LzqXqknmgEU?si=5-NpEHzDz7I6JX-U)
 
 ### Floodgate
 * [ULTIMATE Guide to Operation Floodgate M+ | Quazii - EN](https://youtu.be/GXf9FOBWld4?si=Gc97Guu27em2rCF1)
@@ -169,6 +176,8 @@ Superb Elusive Creatures, requiring 40/40 in Trained Tracker Trained Tracker. Su
 ```
 /run for k, v in pairs({ Assembly = 83318,Council = 83317,Spooders = 83319,Hallowfall = 83320}) do print(format("%s: %s", k, C_QuestLog.IsQuestFlaggedCompleted(v) and "\124cff00ff00Yes\124r" or "\124cffff0000No\124r")) end
 ```
+* [Best Curios](https://wowvendor.com/media/wow/best-brann-curios/?srsltid=AfmBOornEFzOhd6bvMqGQ34nHt6krrmC7rz6ObrE_nxpKW_UJNwj7-oF)
+
 
 ## Weakauras
 
@@ -188,4 +197,10 @@ Superb Elusive Creatures, requiring 40/40 in Trained Tracker Trained Tracker. Su
 #showtooltip   
 /use Algari Mana Oil   
 /use [btn:1]16;[btn:2]17   
+```
+
+* get itemlevel
+
+```
+/run local n=tInvert(Enum.ItemRedundancySlot),a;for i=0,16 do a = C_ItemUpgrade.GetHighWatermarkForSlot(i); if a < 678 then print(a, n[i]) end end
 ```
