@@ -1,4 +1,4 @@
-### **Plexus Sentinel Boss Guide **
+## Plexus Sentinel Boss Guide
 
 *   **Phasenanzahl:**
     *   Der Kampf besteht aus zwei Hauptphasen, die durch eine Zwischenphase (Intermission) getrennt sind.
@@ -20,9 +20,7 @@
 *   **Heldentum/Kampfrausch (HT):**
     *   Zieht HT nach der ersten Zwischenphase, wenn der Boss wieder angreifbar ist, um den erhöhten Schaden in Phase 2 schnell zu bewältigen.
 
----
-
-### **Loom'ithar Boss Guide **
+## Loom'ithar Boss Guide
 
 *   **Phasenanzahl:**
     *   Der Kampf hat zwei Phasen. Der Phasenwechsel findet bei 50% Lebenspunkten des Bosses statt.
@@ -45,9 +43,7 @@
 *   **Heldentum/Kampfrausch (HT):**
     *   Zieht HT in Phase 2, da der Platz immer knapper wird und der Schaden ansteigt.
 
----
-
-### **Soulbinder Naazindhri Boss Guide **
+## Soulbinder Naazindhri Boss Guide
 
 *   **Phasenanzahl:**
     *   Der Kampf hat eine durchgehende Hauptphase, die in Zyklen abläuft und in einer finalen "Burn"-Phase endet, in der alle verbleibenden Adds spawnen.
@@ -71,9 +67,7 @@
 *   **Heldentum/Kampfrausch (HT):**
     *   Zieht HT in der finalen Phase, wenn alle verbleibenden Adds spawnen, um den Kampf schnell zu beenden.
 
----
-
-### **Forgeweaver Araz Boss Guide **
+## Forgeweaver Araz Boss Guide
 
 *   **Phasenanzahl:**
     *   Der Kampf hat drei Phasen. Der Ablauf ist typischerweise: Phase 1 -> Zwischenphase -> Phase 1 -> Phase 3 (bei 20% HP).
@@ -99,9 +93,7 @@
 *   **Heldentum/Kampfrausch (HT):**
     *   Zieht HT, wenn der Boss nach der ersten Zwischenphase für kurze Zeit betäubt ist und 100% mehr Schaden erleidet.
 
----
-
-### **The Soul Hunters Boss Guide **
+## The Soul Hunters Boss Guide
 
 *   **Phasenanzahl:**
     *   Dies ist ein Ratskampf (Council) mit einer Hauptphase und vier kurzen Zwischenphasen. Alle drei Bosse müssen gleichzeitig sterben.
@@ -126,9 +118,7 @@
 *   **Heldentum/Kampfrausch (HT):**
     *   Zieht HT direkt zu Beginn des Kampfes, um maximalen Cleave-Schaden auf alle drei Bosse zu machen.
 
----
-
-### **Fractillus Boss Guide **
+## Fractillus Boss Guide
 
 *   **Phasenanzahl:**
     *   Der Kampf hat nur eine einzige, durchgehende Phase, die an Tetris erinnert.
@@ -147,9 +137,7 @@
 *   **Heldentum/Kampfrausch (HT):**
     *   Zieht HT direkt zu Beginn, da der Kampf ein reines DPS-Rennen gegen die sich füllenden Wände ist.
 
----
-
-### **Nexus King Salhadaar Boss Guide **
+## Nexus King Salhadaar Boss Guide
 
 *   **Phasenanzahl:**
     *   Der Kampf hat drei Phasen, die durch zwei Zwischenphasen unterbrochen werden.
